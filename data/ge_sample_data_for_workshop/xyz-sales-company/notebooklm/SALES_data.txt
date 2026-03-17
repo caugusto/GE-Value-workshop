@@ -1,0 +1,26 @@
+OrderID,CustomerID,OrderDate,OrderStatus,PaymentMethod,ShippingAddress,ShippingCity,ShippingState,ShippingZip,ShippingCountry,TotalAmount,DiscountAmount,PaymentStatus,ShippingCarrier,TrackingNumber,ProductID(s),Quantity(s),UnitPrice(s),Notes
+ORD001,1,2025-03-28 18:00:00,Shipped,Credit Card,123 Main St,Anytown,CA,90210,USA,14.97,0.00,Paid,UPS,1Z1234567890,PROD001;PROD004,1;1,4.99;4.25,First order
+ORD002,2,2025-03-28 18:05:00,Processing,PayPal,456 Oak Ave,Otherville,NY,10001,USA,9.00,1.00,Pending,N/A,N/A,PROD002,2,4.50,Used a discount code
+ORD003,3,2025-03-28 18:10:00,Delivered,Credit Card,789 Pine Ln,Somecity,TX,75001,USA,5.99,0.00,Paid,USPS,9876543210,PROD003,1,5.99,Repeat customer
+ORD004,4,2025-03-28 18:15:00,Shipped,Apple Pay,101 Elm Rd,Another Town,FL,33101,USA,10.50,0.00,Paid,FedEx,TRACK4321,PROD004;PROD011,1;1,4.25;4.50,Quick checkout
+ORD005,5,2025-03-28 18:20:00,Processing,Credit Card,222 Willow Dr,Faraway,GA,30303,USA,15.75,0.00,Paid,N/A,N/A,PROD005;PROD006,1;1,5.25;4.75,New customer via website
+ORD006,6,2025-03-28 18:25:00,Delivered,Google Pay,333 Maple Ct,Nearville,IL,60601,USA,11.50,0.00,Paid,UPS,TRACK1122,PROD007,2,5.75,Ordered two packs
+ORD007,7,2025-03-28 18:30:00,Shipped,Credit Card,444 Birch St,Hometown,PA,19101,USA,9.99,0.00,Paid,USPS,TRACK3344,PROD008,1,9.99,Assorted box
+ORD008,8,2025-03-28 18:35:00,Processing,PayPal,555 Cedar Blvd,Springfield,MA,01101,USA,5.99,0.00,Paid,N/A,N/A,PROD009,1,5.99,Mini cookies
+ORD009,9,2025-03-28 18:40:00,Delivered,Credit Card,666 Oak Ter,Riverdale,NJ,07701,USA,6.50,0.00,Paid,FedEx,TRACK5566,PROD010,1,6.50,Peanut butter brownies
+ORD010,10,2025-03-28 18:45:00,Shipped,Apple Pay,777 Pine Ave,Lakewood,OH,44107,USA,9.00,0.00,Paid,UPS,TRACK7788,PROD002;PROD004,1;1,4.50;4.50,Returning customer
+ORD011,11,2025-03-28 18:50:00,Processing,Credit Card,888 Elm Ln,Hillcrest,NC,27511,USA,5.50,0.00,Paid,N/A,N/A,PROD013,1,5.50,Vegan cookies
+ORD012,12,2025-03-28 18:55:00,Delivered,Google Pay,999 Willow Rd,Valleyview,VA,23219,USA,6.00,0.00,Paid,USPS,TRACK9900,PROD014,1,6.00,Gluten-free
+ORD013,13,2025-03-28 19:00:00,Shipped,Credit Card,111 Maple Dr,Summitville,WA,98101,USA,6.25,0.00,Paid,FedEx,TRACK2211,PROD015,1,6.25,Double fudge
+ORD014,14,2025-03-28 19:05:00,Processing,PayPal,222 Birch Ct,Oceanview,OR,97101,USA,9.50,0.00,Paid,N/A,N/A,PROD016;PROD001,1;1,4.75;4.99,Combination order
+ORD015,15,2025-03-28 19:10:00,Delivered,Apple Pay,333 Cedar Ave,Plainville,CO,80201,USA,10.75,0.00,Paid,UPS,TRACK4433,PROD017,1,5.25;PROD004,1,4.25,Two items in one order
+ORD016,16,2025-03-28 19:15:00,Shipped,Credit Card,444 Oak St,Greenfield,MN,55401,USA,6.75,0.00,Paid,USPS,TRACK6655,PROD018,1,6.75,Triple chocolate
+ORD017,17,2025-03-28 19:20:00,Processing,Google Pay,555 Pine Ter,Fairview,MD,21201,USA,5.00,0.00,Paid,N/A,N/A,PROD019,1,5.00,Macaroons
+ORD018,18,2025-03-28 19:25:00,Delivered,Credit Card,666 Elm Rd,Westville,CT,06511,USA,6.99,0.00,Paid,FedEx,TRACK8877,PROD020,1,6.99,Salted caramel
+ORD019,19,2025-03-28 19:30:00,Shipped,Apple Pay,777 Willow Dr,Northwood,WI,53201,USA,10.25,0.00,Paid,UPS,TRACK0099,PROD021;PROD002,1;1,5.25;4.50,Another combination
+ORD020,20,2025-03-28 19:35:00,Processing,PayPal,888 Maple Ct,Southville,KS,66201,USA,5.25,0.00,Paid,N/A,N/A,PROD022,1,5.25,Espresso cookies
+ORD021,21,2025-03-28 19:40:00,Delivered,Credit Card,999 Birch St,Eastpoint,MO,63101,USA,5.50,0.00,Paid,USPS,TRACK1100,PROD023,1,5.50,White chocolate raspberry
+ORD022,22,2025-03-28 19:45:00,Shipped,Google Pay,111 Cedar Blvd,Centralia,NE,68501,USA,7.25,0.00,Paid,FedEx,TRACK3322,PROD024,1,7.25,Caramel pecan
+ORD023,23,2025-03-28 19:50:00,Processing,Credit Card,222 Oak Ter,Uptown,NM,87101,USA,10.99,0.00,Paid,N/A,N/A,PROD025;PROD003,1;1,10.99;5.99,Holiday assortment and brownies
+ORD024,24,2025-03-28 19:55:00,Delivered,Apple Pay,333 Pine Ave,Downtown,NV,89101,USA,4.99,0.00,Paid,UPS,TRACK5544,PROD001,1,4.99,Single item order
+ORD025,25,2025-03-28 20:00:00,Shipped,PayPal,444 Elm Ln,Suburbia,ID,83701,USA,9.75,0.00,Paid,USPS,TRACK7766,PROD005;PROD011,1;1,5.25;4.50,Another two-item order

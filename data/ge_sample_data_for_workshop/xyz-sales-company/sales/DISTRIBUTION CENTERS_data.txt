@@ -1,0 +1,4 @@
+DistributionCenter,Address,City,State,ZipCode,Country,Latitude,Longitude
+ Warehouse FG,Example Address 1,Oakland,CA,94612,USA,37.8044,-122.2711
+ Local Delivery Hub,Example Address 2,Oakland,CA,94607,USA,37.8100,-122.2200
+ Regional Distribution Center,Example Address 3,Oakland,CA,94606,USA,37.7800,-122.2000

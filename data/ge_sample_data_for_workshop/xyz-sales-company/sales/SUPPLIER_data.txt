@@ -1,0 +1,22 @@
+SupplierID,SupplierName,ContactPerson,Phone,Email,Address,City,State,ZipCode,Country,LeadTimeDays,PaymentTerms,ProductsSupplied,MinOrderQuantity,Notes
+AGRI001,Golden Grain Farms,John Miller,555-111-2222,john.miller@goldengrain.com,100 Harvest Lane,Farmville,CA,93223,USA,7,Net 30,Wheat Flour,1000 lbs,Reliable source for flour
+SUGAR001,Sweet Solutions Inc.,Jane Davis,555-222-3333,jane.davis@sweetsolutions.com,200 Sugar Mill Rd,Sweetwater,TX,79556,USA,10,Net 30,Granulated Sugar,500 lbs,Competitive pricing
+POULTRY01,Clucky's Eggs,Peter Brown,555-333-4444,peter.brown@cluckys.com,300 Coop Street,Eggtown,GA,30002,USA,3,Net 15,Fresh Eggs,50 cases,Daily deliveries
+DAIRY001,Milky Way Co-op,Mary Wilson,555-444-5555,mary.wilson@milkyway.org,400 Creamery Ave,Dairyville,WI,53999,USA,5,Net 30,Butter,200 lbs,High-quality butter
+BOXCO01,Box It Up Ltd.,David Garcia,555-555-6666,david.garcia@boxitup.com,500 Carton Blvd,Boxville,IL,60007,USA,14,Net 30,Cardboard Boxes,500 boxes,Variety of sizes
+PLAST02,WrapMaster Inc.,Susan Rodriguez,555-666-7777,susan.rodriguez@wrapmaster.net,600 Plastic Way,Wrapville,OH,44004,USA,7,Net 30,Plastic Wrap,100 rolls,Food-grade plastic
+CHEM001,Rise Up Chemicals,Robert Martinez,555-777-8888,robert.martinez@riseup.com,700 Chemical Dr,Chemcity,NJ,07008,USA,10,Net 30,Baking Powder,100 lbs,Consistent quality
+FLAVOR01,Sweet Scents Flavors,Linda Lopez,555-888-9999,linda.lopez@sweetscents.com,800 Flavor Lane,Flavorville,NY,10009,USA,5,Net 30,Vanilla Extract,5 gallons,Pure vanilla
+CHOCO01,Rich Cocoa Imports,Michael Harris,555-999-0000,michael.harris@richcocoa.com,900 Chocolate Rd,Cocoatown,PA,19110,USA,14,Net 30,Cocoa Powder,500 lbs,Premium cocoa
+SALTCO01,Salty Solutions,Barbara Clark,555-000-1111,barbara.clark@saltysolutions.com,1000 Salt Mine St,Salt Lake City,UT,84101,USA,7,Net 30,Salt,1000 lbs,Reliable salt supply
+FATOIL01,Crispy Fats Inc.,Charles Lewis,555-111-3333,charles.lewis@crispyfats.com,1100 Oilfield Ave,Oilville,OK,73001,USA,10,Net 30,Shortening,Soybean Oil,200 lbs,Bulk oil supplier
+SPICE01,Global Spices Co.,Margaret Young,555-222-4444,margaret.young@globalspices.com,1200 Spice Bazaar,Spiceville,NM,87101,USA,5,Net 30,Cinnamon,50 lbs,High-quality spices
+CITRUS01,Citrus Farms Inc.,William Hall,555-333-5555,william.hall@citrusfarms.com,1300 Orchard Blvd,Citrusville,FL,33003,USA,3,Net 15,Lemons,50 lbs,Fresh citrus
+NUTTY01,Nutty Goodness Supplies,Dorothy Allen,555-444-6666,dorothy.allen@nuttygoodness.com,1400 Peanut Place,Nutsville,VA,22002,USA,7,Net 30,Peanut Butter,Macadamia Nuts,Pecans,100 lbs,Various nuts
+VEGAN01,Vegan Delights Supply,James Wright,555-555-7777,james.wright@vegandelights.com,1500 Plant Power Pkwy,Veganville,OR,97701,USA,14,Net 30,Vegan Butter,Vegan Chocolate Chips,Vegan Egg Replacer,50 lbs,Plant-based ingredients
+GLUTEN01,Gluten-Free Goods Co.,Patricia King,555-666-8888,patricia.king@glutenfree.com,1600 Grainless Grove,Glutenfree,AZ,85001,USA,10,Net 30,Almond Flour,Rice Flour,50 lbs,Gluten-free alternatives
+CRANBERRY01,Cranberry Farms Inc.,Richard Scott,555-777-9999,richard.scott@cranberryfarms.com,1700 Bog Road,Cranberry,MA,02360,USA,7,Net 30,Dried Cranberries,50 lbs,High-quality cranberries
+COCONUT01,Coconut Paradise Imports,Jennifer Green,555-888-0000,jennifer.green@coconutparadise.com,1800 Palm Tree Lane,Coconut Grove,HI,96701,USA,12,Net 30,Sweetened Shredded Coconut,50 lbs,Tropical ingredients
+CARAMEL01,Caramel Creations,Thomas Adams,555-999-1111,thomas.adams@caramelcreations.com,1900 Sweet Swirl St,Caramel City,IN,46201,USA,5,Net 30,Caramel,50 lbs,Gourmet caramel
+BERRY01,Berry Farms Ltd.,Elizabeth Baker,555-000-2222,elizabeth.baker@berryfarms.com,2000 Berry Patch Rd,Berryville,WA,98001,USA,7,Net 30,Dried Raspberries,50 lbs,Quality dried berries
+COFFEE01,Coffee Bean Supply,Daniel Nelson,555-111-4444,daniel.nelson@coffeebeans.com,2100 Coffee Lane,Bean Town,VT,05401,USA,10,Net 30,Espresso Powder,10 lbs,Premium coffee

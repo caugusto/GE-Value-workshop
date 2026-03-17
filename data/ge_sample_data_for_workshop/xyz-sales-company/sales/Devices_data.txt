@@ -1,0 +1,26 @@
+DeviceID,DeviceName,DeviceType,LocationType,LocationIdentifier,InstallationDate,Status,BatteryLevel,LastReadingTimestamp,DataType,DataValue,Units,Notes
+TRK001-TEMP,Truck 1 Temperature Sensor,Temperature Sensor,Truck,Truck-001,2024-11-15,Active,95%,2025-03-28 18:55:00,Temperature,38.2,Fahrenheit,Monitoring refrigerated goods
+FRZ001-TEMP,Freezer Unit 1 Temperature Sensor,Temperature Sensor,Freezer,Freezer-001,2025-01-20,Active,88%,2025-03-28 19:10:00,Temperature,-15.5,Celsius,Critical for preserving raw materials
+WHSRM-HUM,Warehouse RM Humidity Sensor,Humidity Sensor,Warehouse,Warehouse RM,2024-10-01,Active,76%,2025-03-28 19:05:00,Humidity,62.7,%,Maintaining optimal storage conditions
+TRK002-GPS,Truck 2 GPS Tracker,GPS Tracker,Truck,Truck-002,2024-12-05,Active,70%,2025-03-28 19:15:00,Location,37.8044,-122.2711,Latitude/Longitude,Real-time location tracking
+FRZ002-PWR,Freezer Unit 2 Power Sensor,Power Consumption Sensor,Freezer,Freezer-002,2025-02-10,Active,N/A,2025-03-28 19:00:00,Power Consumption,2.1,kW,Monitoring energy usage
+WHSRM-TEMP,Warehouse RM Temperature Sensor,Temperature Sensor,Warehouse,Warehouse RM,2024-10-01,Active,82%,2025-03-28 19:02:00,Temperature,68.5,Fahrenheit,General warehouse temperature
+TRK003-TEMP,Truck 3 Temperature Sensor,Temperature Sensor,Truck,Truck-003,2025-01-05,Active,91%,2025-03-28 19:18:00,Temperature,39.1,Fahrenheit,Ensuring food safety during transport
+FRZ003-TEMP,Freezer Unit 3 Temperature Sensor,Temperature Sensor,Freezer,Freezer-003,2025-02-25,Active,93%,2025-03-28 19:08:00,Temperature,-16.2,Celsius,Monitoring finished goods storage
+WHSPKG-HUM,Warehouse PKG Humidity Sensor,Humidity Sensor,Warehouse,Warehouse PKG,2024-11-20,Active,79%,2025-03-28 19:07:00,Humidity,58.9,%,Preventing damage to packaging materials
+TRK001-DOOR,Truck 1 Door Sensor,Door Open/Close Sensor,Truck,Truck-001,2024-11-15,Active,98%,2025-03-28 18:58:00,Door Status,Closed,Boolean,Tracking unauthorized access
+FRZ001-DOOR,Freezer Unit 1 Door Sensor,Door Open/Close Sensor,Freezer,Freezer-001,2025-01-20,Active,85%,2025-03-28 19:12:00,Door Status,Closed,Boolean,Monitoring door integrity
+WHSPKG-TEMP,Warehouse PKG Temperature Sensor,Temperature Sensor,Warehouse,Warehouse PKG,2024-11-20,Active,85%,2025-03-28 19:09:00,Temperature,72.1,Fahrenheit,Maintaining packaging quality
+TRK004-GPS,Truck 4 GPS Tracker,GPS Tracker,Truck,Truck-004,2025-02-15,Active,65%,2025-03-28 19:17:00,Location,37.7749,-122.4194,Latitude/Longitude,Route monitoring
+FRZ004-PWR,Freezer Unit 4 Power Sensor,Power Consumption Sensor,Freezer,Freezer-004,2025-03-01,Active,N/A,2025-03-28 19:03:00,Power Consumption,1.9,kW,Analyzing energy efficiency
+WHSFG-TEMP,Warehouse FG Temperature Sensor,Temperature Sensor,Warehouse,Warehouse FG,2024-12-10,Active,80%,2025-03-28 19:04:00,Temperature,65.8,Fahrenheit,Storage conditions for finished goods
+TRK002-DOOR,Truck 2 Door Sensor,Door Open/Close Sensor,Truck,Truck-002,2024-12-05,Active,73%,2025-03-28 19:16:00,Door Status,Closed,Boolean,Security measure
+FRZ002-DOOR,Freezer Unit 2 Door Sensor,Door Open/Close Sensor,Freezer,Freezer-002,2025-02-10,Active,90%,2025-03-28 19:01:00,Door Status,Closed,Boolean,Preventing temperature fluctuations
+WHSFG-HUM,Warehouse FG Humidity Sensor,Humidity Sensor,Warehouse,Warehouse FG,2024-12-10,Active,78%,2025-03-28 19:06:00,Humidity,55.2,%,Maintaining product integrity
+TRK005-TEMP,Truck 5 Temperature Sensor,Temperature Sensor,Truck,Truck-005,2025-03-10,Active,97%,2025-03-28 19:19:00,Temperature,40.5,Fahrenheit,Newest truck in the fleet
+FRZ005-TEMP,Freezer Unit 5 Temperature Sensor,Temperature Sensor,Freezer,Freezer-005,2025-03-15,Active,86%,2025-03-28 19:11:00,Temperature,-17.1,Celsius,High-capacity freezer
+TRK003-DOOR,Truck 3 Door Sensor,Door Open/Close Sensor,Truck,Truck-003,2025-01-05,Active,94%,2025-03-28 19:20:00,Door Status,Closed,Boolean,Driver safety
+FRZ003-DOOR,Freezer Unit 3 Door Sensor,Door Open/Close Sensor,Freezer,Freezer-003,2025-02-25,Active,96%,2025-03-28 19:09:00,Door Status,Closed,Boolean,Energy conservation
+GEN001-ENV,Processing Area Environmental Sensor,Environmental Sensor,Production,Processing Area,2024-09-18,Active,80%,2025-03-28 19:13:00,Temperature,70.1,Fahrenheit,Monitoring production environment
+GEN001-ENV,Processing Area Environmental Sensor,Environmental Sensor,Production,Processing Area,2024-09-18,Active,79%,2025-03-28 19:13:00,Humidity,45.8,%,Ensuring food safety standards
+GEN002-UTIL,Water Meter - Production,Utility Meter,Production,Water Inlet,2024-07-01,Active,N/A,2025-03-28 19:14:00,Water Usage,125.3,Gallons/Hour,Tracking water consumption

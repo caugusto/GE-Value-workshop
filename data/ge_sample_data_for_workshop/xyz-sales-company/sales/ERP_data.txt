@@ -1,0 +1,26 @@
+ItemID,ItemName,Category,SKU,Description,UnitPrice,UnitsInStock,ReorderLevel,SupplierID,SupplierName,PurchaseDate,LastSaleDate,CostPrice,Location,Notes
+FGI001,Wheat Flour (50lb Bag),Raw Material,WF-50LB-001,All-Purpose Wheat Flour,35.00,200,50,AGRI001,Golden Grain Farms,2025-03-25,N/A,22.75,Warehouse RM,Essential ingredient
+FGI002,Granulated Sugar (25lb Bag),Raw Material,GS-25LB-002,Pure Cane Granulated Sugar,28.50,150,40,SUGAR001,Sweet Solutions Inc.,2025-03-22,N/A,18.00,Warehouse RM,High usage
+FGI003,Fresh Eggs (30 Dozen Case),Raw Material,FE-30DZ-003,Grade A Large Fresh Eggs,65.00,80,20,POULTRY01,Clucky's Eggs,2025-03-27,N/A,42.50,Cooler RM,Short shelf life
+FGI004,Butter (25lb Block),Raw Material,BT-25LB-004,Unsalted Butter,80.00,60,15,DAIRY001,Milky Way Co-op,2025-03-24,N/A,52.00,Cooler RM,Used in many recipes
+PKG001,Cardboard Boxes (12x12x6),Packaging,CB-121206-001,Corrugated Cardboard Boxes,1.20,1500,300,BOXCO01,Box It Up Ltd.,2025-03-20,N/A,0.75,Warehouse PKG,Standard packaging
+PKG002,Plastic Wrap (500ft Roll),Packaging,PW-500FT-002,Food-Grade Plastic Wrap,5.50,1000,200,PLAST02,WrapMaster Inc.,2025-03-21,N/A,3.10,Warehouse PKG,For sealing
+FIN001,Chocolate Chip Cookies (12ct Pack),Finished Goods,CCC-12PK-001,Classic Chocolate Chip Cookies,4.99,1200,300,N/A,N/A,2.15,Warehouse FG,Popular product
+FIN002,Oatmeal Raisin Cookies (12ct Pack),Finished Goods,ORC-12PK-002,Wholesome Oatmeal Raisin Cookies,4.50,800,200,N/A,N/A,1.90,Warehouse FG,Healthier option
+FIN003,Brownies (6ct Pack),Finished Goods,BRN-06PK-003,Fudgy Chocolate Brownies,5.99,600,150,N/A,N/A,2.80,Warehouse FG,Indulgent treat
+FGI005,Baking Powder (5lb Container),Raw Material,BP-05LB-005,Double-Acting Baking Powder,15.00,100,25,CHEM001,Rise Up Chemicals,2025-03-18,N/A,9.50,Warehouse RM,Leavening agent
+FGI006,Vanilla Extract (1 Gallon),Raw Material,VE-01GAL-006,Pure Vanilla Extract,75.00,40,10,FLAVOR01,Sweet Scents Flavors,2025-03-15,N/A,48.00,Warehouse RM,Flavor enhancer
+PKG003,Cookie Bags (Individual),Packaging,CB-INDV-003,Clear Plastic Bags for Single Cookies,0.05,5000,1000,PLAST02,WrapMaster Inc.,2025-03-19,N/A,0.02,Warehouse PKG,Individual wrapping
+FIN004,Sugar Cookies (12ct Pack),Finished Goods,SCK-12PK-004,Classic Sugar Cookies,4.25,1000,250,N/A,N/A,1.75,Warehouse FG,Simple and sweet
+FGI007,Cocoa Powder (10lb Bag),Raw Material,CP-10LB-007,Unsweetened Cocoa Powder,40.00,70,18,CHOCO01,Rich Cocoa Imports,2025-03-23,N/A,25.50,Warehouse RM,For chocolate products
+FGI008,Salt (25lb Bag),Raw Material,SL-25LB-008,Iodized Table Salt,12.00,120,30,SALTCO01,Salty Solutions,2025-03-26,N/A,7.00,Warehouse RM,Essential seasoning
+PKG004,Brownie Boxes (6ct),Packaging,BB-06CT-004,Printed Cardboard Boxes for 6 Brownies,0.80,800,200,BOXCO01,Box It Up Ltd.,2025-03-21,N/A,0.45,Warehouse PKG,Branded packaging
+FIN005,Peanut Butter Cookies (12ct Pack),Finished Goods,PBC-12PK-005,Chewy Peanut Butter Cookies,5.25,900,225,N/A,N/A,2.30,Warehouse FG,Nutty flavor
+FGI009,Baking Soda (5lb Container),Raw Material,BS-05LB-009,Sodium Bicarbonate,10.00,90,22,CHEM001,Rise Up Chemicals,2025-03-17,N/A,6.00,Warehouse RM,Leavening agent
+FGI010,Shortening (50lb Container),Raw Material,SH-50LB-010,All-Vegetable Shortening,45.00,50,12,FATOIL01,Crispy Fats Inc.,2025-03-20,N/A,28.00,Warehouse RM,For texture
+PKG005,Shipping Boxes (18x12x8),Packaging,SB-181208-005,Heavy-Duty Shipping Boxes,1.80,600,150,BOXCO01,Box It Up Ltd.,2025-03-24,N/A,1.10,Warehouse PKG,For order fulfillment
+FIN006,Ginger Snap Cookies (12ct Pack),Finished Goods,GSC-12PK-006,Spicy Ginger Snap Cookies,4.75,700,175,N/A,N/A,2.00,Warehouse FG,Seasonal favorite
+FGI011,Cinnamon (1lb Container),Raw Material,CN-01LB-011,Ground Cinnamon,18.00,60,15,SPICE01,Global Spices Co.,2025-03-16,N/A,11.50,Warehouse RM,Flavoring spice
+FGI012,Powdered Sugar (10lb Bag),Raw Material,PS-10LB-012,Confectioners' Powdered Sugar,22.00,110,28,SUGAR001,Sweet Solutions Inc.,2025-03-19,N/A,14.00,Warehouse RM,For icings and dusting
+FIN007,Double Chocolate Cookies (12ct Pack),Finished Goods,DCC-12PK-007,Rich Double Chocolate Cookies,5.50,1100,275,N/A,N/A,2.50,Warehouse FG,Extra chocolatey
+FGI013,Soybean Oil (5 Gallon Drum),Raw Material,SO-05GAL-013,Refined Soybean Oil,60.00,30,8,FATOIL01,Crispy Fats Inc.,2025-03-21,N/A,38.00,Warehouse RM,Used in production

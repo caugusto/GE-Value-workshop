@@ -1,0 +1,52 @@
+﻿us state,%population
+Alabama,1.50%
+Alaska,0.22%
+Arizona,2.13%
+Arkansas,0.90%
+California,11.80%
+Colorado,1.72%
+Connecticut,1.08%
+Delaware,0.30%
+District of Columbia,0.21%
+Florida,6.43%
+Georgia,3.20%
+Hawaii,0.43%
+Idaho,0.55%
+Illinois,3.82%
+Indiana,2.03%
+Iowa,0.95%
+Kansas,0.88%
+Kentucky,1.35%
+Louisiana,1.39%
+Maine,0.41%
+Maryland,1.84%
+Massachusetts,2.10%
+Michigan,3.01%
+Minnesota,1.70%
+Mississippi,0.88%
+Missouri,1.84%
+Montana,0.32%
+Nebraska,0.59%
+Nevada,0.93%
+New Hampshire,0.41%
+New Jersey,2.77%
+New Mexico,0.63%
+New York,6.03%
+North Carolina,3.12%
+North Dakota,0.23%
+Ohio,3.52%
+Oklahoma,1.18%
+Oregon,1.27%
+Pennsylvania,3.88%
+Rhode Island,0.33%
+South Carolina,1.53%
+South Dakota,0.27%
+Tennessee,2.06%
+Texas,8.70%
+Utah,0.98%
+Vermont,0.19%
+Virginia,2.58%
+Washington,2.30%
+West Virginia,0.54%
+Wisconsin,1.76%
+Wyoming,0.17%

@@ -1,0 +1,26 @@
+InventoryID,ItemID,ItemName,Category,SKU,Location,QuantityOnHand,LastStockUpdate,BatchNumber,ExpirationDate,CostPrice,SupplierID,SupplierName,Notes
+INV001,FGI001,Wheat Flour (50lb Bag),Raw Material,WF-50LB-001,Warehouse RM-Aisle 1,180,2025-03-25 10:00:00,BATCH-WF-0325,2025-09-25,22.75,AGRI001,Golden Grain Farms,Good quality, recently received
+INV002,FGI002,Granulated Sugar (25lb Bag),Raw Material,GS-25LB-002,Warehouse RM-Aisle 2,130,2025-03-22 14:30:00,BATCH-GS-0322,2026-03-22,18.00,SUGAR001,Sweet Solutions Inc.,Stable inventory level
+INV003,FGI003,Fresh Eggs (30 Dozen Case),Raw Material,FE-30DZ-003,Cooler RM-Shelf 1,65,2025-03-27 08:00:00,BATCH-FE-0327,2025-04-10,42.50,POULTRY01,Clucky's Eggs,Perishable, monitor closely
+INV004,FGI004,Butter (25lb Block),Raw Material,BT-25LB-004,Cooler RM-Shelf 2,50,2025-03-24 16:00:00,BATCH-BT-0324,2025-06-24,52.00,DAIRY001,Milky Way Co-op,Keep refrigerated
+INV005,PKG001,Cardboard Boxes (12x12x6),Packaging,CB-121206-001,Warehouse PKG-Aisle P1,1350,2025-03-20 11:15:00,BATCH-CB-0320,N/A,0.75,BOXCO01,Box It Up Ltd.,Sufficient stock
+INV006,PKG002,Plastic Wrap (500ft Roll),Packaging,PW-500FT-002,Warehouse PKG-Aisle P2,900,2025-03-21 09:45:00,BATCH-PW-0321,N/A,3.10,PLAST02,WrapMaster Inc.,Regular usage
+INV007,FIN001,Chocolate Chip Cookies (12ct Pack),Finished Goods,CCC-12PK-001,Warehouse FG-Aisle F1,1050,2025-03-28 17:00:00,LOT-CCC-0328,2025-04-11,2.15,N/A,N/A,Freshly baked today
+INV008,FIN002,Oatmeal Raisin Cookies (12ct Pack),Finished Goods,ORC-12PK-002,Warehouse FG-Aisle F1,700,2025-03-28 16:30:00,LOT-ORC-0328,2025-04-15,1.90,N/A,N/A,Good stock level
+INV009,FIN003,Fudgy Brownies (6ct Pack),Finished Goods,BRN-06PK-003,Warehouse FG-Aisle F2,520,2025-03-28 15:45:00,LOT-BRN-0328,2025-04-04,2.80,N/A,N/A,Needs monitoring
+INV010,FGI005,Baking Powder (5lb Container),Raw Material,BP-05LB-005,Warehouse RM-Aisle 3,85,2025-03-18 13:00:00,BATCH-BP-0318,2026-03-18,9.50,CHEM001,Rise Up Chemicals,Stable
+INV011,FGI006,Vanilla Extract (1 Gallon),Raw Material,VE-01GAL-006,Warehouse RM-Secure,35,2025-03-15 11:45:00,BATCH-VE-0315,2027-03-15,48.00,FLAVOR01,Sweet Scents Flavors,High value
+INV012,PKG003,Cookie Bags (Individual),Packaging,CB-INDV-003,Warehouse PKG-Aisle P3,4500,2025-03-19 15:30:00,BATCH-CB-INDV-0319,N/A,0.02,PLAST02,WrapMaster Inc.,Plentiful supply
+INV013,FIN004,Sugar Cookies (12ct Pack),Finished Goods,SCK-12PK-004,Warehouse FG-Aisle F1,880,2025-03-28 17:15:00,LOT-SCK-0328,2025-04-08,1.75,N/A,N/A,Popular item
+INV014,FGI007,Cocoa Powder (10lb Bag),Raw Material,CP-10LB-007,Warehouse RM-Aisle 2,55,2025-03-23 09:00:00,BATCH-CP-0323,2025-12-23,25.50,CHOCO01,Rich Cocoa Imports,Adequate stock
+INV015,FGI008,Salt (25lb Bag),Raw Material,SL-25LB-008,Warehouse RM-Aisle 4,105,2025-03-26 17:00:00,BATCH-SL-0326,2027-03-26,7.00,SALTCO01,Salty Solutions,Essential ingredient
+INV016,PKG004,Brownie Boxes (6ct),Packaging,BB-06CT-004,Warehouse PKG-Aisle P1,720,2025-03-21 13:30:00,BATCH-BB-0321,N/A,0.45,BOXCO01,Box It Up Ltd.,Sufficient for current production
+INV017,FIN005,Peanut Butter Cookies (12ct Pack),Finished Goods,PBC-12PK-005,Warehouse FG-Aisle F1,780,2025-03-28 16:45:00,LOT-PBC-0328,2025-04-13,2.30,N/A,N/A,Good seller
+INV018,FGI009,Baking Soda (5lb Container),Raw Material,BS-05LB-009,Warehouse RM-Aisle 3,70,2025-03-17 10:30:00,BATCH-BS-0317,2026-03-17,6.00,CHEM001,Rise Up Chemicals,Standard stock
+INV019,FGI010,Shortening (50lb Container),Raw Material,SH-50LB-010,Warehouse RM-Aisle 4,40,2025-03-20 08:30:00,BATCH-SH-0320,2025-09-20,28.00,FATOIL01,Crispy Fats Inc.,Monitor level
+INV020,PKG005,Shipping Boxes (18x12x8),Packaging,SB-181208-005,Warehouse PKG-Aisle P4,550,2025-03-24 14:00:00,BATCH-SB-0324,N/A,1.10,BOXCO01,Box It Up Ltd.,Used for online orders
+INV021,FIN006,Ginger Snap Cookies (12ct Pack),Finished Goods,GSC-12PK-006,Warehouse FG-Aisle F2,620,2025-03-28 16:00:00,LOT-GSC-0328,2025-04-20,2.00,N/A,N/A,Longer shelf life
+INV022,FGI011,Cinnamon (1lb Container),Raw Material,CN-01LB-011,Warehouse RM-Spice Rack,50,2025-03-16 12:15:00,BATCH-CN-0316,2026-09-16,11.50,SPICE01,Global Spices Co.,Fragile, handle with care
+INV023,FGI012,Powdered Sugar (10lb Bag),Raw Material,PS-10LB-012,Warehouse RM-Aisle 2,95,2025-03-19 17:30:00,BATCH-PS-0319,2026-03-19,14.00,SUGAR001,Sweet Solutions Inc.,Used in icings
+INV024,FIN007,Double Chocolate Cookies (12ct Pack),Finished Goods,DCC-12PK-007,Warehouse FG-Aisle F1,950,2025-03-28 17:30:00,LOT-DCC-0328,2025-04-18,2.50,N/A,N/A,Popular with chocolate lovers
+INV025,FGI013,Soybean Oil (5 Gallon Drum),Raw Material,SO-05GAL-013,Warehouse RM-Bulk Storage,25,2025-03-21 11:00:00,BATCH-SO-0321,2025-09-21,38.00,FATOIL01,Crispy Fats Inc.,Bulk ingredient
