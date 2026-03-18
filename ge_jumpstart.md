@@ -30,7 +30,7 @@ Last Modified: 3/18/2026
 
 
 <div id='section-1'></div>
-## Welcome & Prerequisites
+# Welcome & Prerequisites
 
 Welcome to the Gemini Enterprise hands-on lab! 
 
@@ -48,7 +48,7 @@ In this session, you will explore the core day-one capabilities of the platform.
 ---
 
 <div id='section-2'></div>
-## Task 1: Navigating the Interface & Basic Assistant Features
+# Task 1: Navigating the Interface & Basic Assistant Features
 
 Let's start by getting familiar with the Gemini Enterprise interface and some of its foundational tools.
 
@@ -112,7 +112,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
 ---
 
 <div id='section-3'></div>
-## Task 2: Web Search, File Analysis & Data Handling
+# Task 2: Web Search, File Analysis & Data Handling
 
 Gemini Enterprise can analyze public web data, process files, and format data for external use.
 
@@ -194,7 +194,7 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
 ---
 
 <div id='section-4'></div>
-## Task 3: Configuring Personalization
+# Task 3: Configuring Personalization
 
 Personalization allows Gemini Enterprise to tailor its responses based on a ~30-day window of your activity, Google Workspace data (1P apps like Gmail, Calendar, Drive), and connected third-party (3P) apps.
 
@@ -247,7 +247,7 @@ Personalization allows Gemini Enterprise to tailor its responses based on a ~30-
 ---
 
 <div id='section-5'></div>
-## Task 4: Searching Internal Company Data
+# Task 4: Searching Internal Company Data
 
 Gemini Enterprise allows you to securely query your connected enterprise data and extract insights from text and visuals.
 
@@ -290,7 +290,7 @@ Gemini Enterprise allows you to securely query your connected enterprise data an
 ---
 
 <div id='section-6'></div>
-## Task 5: Using @ Mentions and Calling Agents Directly
+# Task 5: Using @ Mentions and Calling Agents Directly
 
 You can seamlessly bring external context, files, people, or specific AI agents directly into your current chat flow using the Omnibar. 
 
@@ -319,7 +319,7 @@ You can seamlessly bring external context, files, people, or specific AI agents 
 ---
 
 <div id='section-7'></div>
-## Task 6: Brainstorming with Idea Generation
+# Task 6: Brainstorming with Idea Generation
 
 This agent continuously generates ideas on a topic, runs a multi-angle evaluation, and ranks them tournament-style.
 
@@ -350,7 +350,7 @@ This agent continuously generates ideas on a topic, runs a multi-angle evaluatio
 ---
 
 <div id='section-8'></div>
-## Task 7: Conducting Deep Research
+# Task 7: Conducting Deep Research
 
 The Deep Research agent provides in-depth, multi-page reports grounded in thorough web research and your company data.
 
@@ -395,7 +395,7 @@ The Deep Research agent provides in-depth, multi-page reports grounded in thorou
 ---
 
 <div id='section-9'></div>
-## Task 8: Generating Media (Images and Video)
+# Task 8: Generating Media (Images and Video)
 
 Gemini Enterprise allows you to generate images and videos using Google’s state-of-the-art models.
 
@@ -438,7 +438,7 @@ Gemini Enterprise allows you to generate images and videos using Google’s stat
 ---
 
 <div id='section-10'></div>
-## Task 9: Unlocking Insights with NotebookLM
+# Task 9: Unlocking Insights with NotebookLM
 
 Embedded directly within Gemini Enterprise, **NotebookLM** serves as a specialized AI research and writing assistant designed to bridge the gap between vast data silos and actionable insights. Unlike general-purpose AI, it operates as a **"grounded" collaborator**, meaning its intelligence is strictly anchored to the specific documents you provide rather than general internet data.
 
@@ -599,7 +599,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
 ---
 
 <div id='section-11'></div>
-## Task 10: Build an Agent from a Prompt with Agent Designer
+# Task 10: Build an Agent from a Prompt with Agent Designer
 
 With Agent Designer enabled, you can rapidly build custom agents starting with just a simple text prompt.
 
@@ -676,7 +676,7 @@ You'll see a result in the agent draft's Preview tab.
 ---
 
 <div id='section-12'></div>
-## Task 11: Build an Agent with the Agent Designer Builder
+# Task 11: Build an Agent with the Agent Designer Builder
 
 Take more control of the agent-building process by using the manual Builder interface and adding multi-step subagents.
 
@@ -738,7 +738,7 @@ Take more control of the agent-building process by using the manual Builder inte
 
 ---
 
-## 🎉 Congratulations!
+# 🎉 Congratulations!
 
 You have completed the **Gemini Enterprise Hands-on Lab**.
 
