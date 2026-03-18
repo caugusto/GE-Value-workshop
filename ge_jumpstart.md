@@ -1,0 +1,885 @@
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+body {
+    font-family: 'Inter', 'Helvetica Neue', Helvetica, sans-serif;
+    line-height: 1.8;
+    color: #1f1f1f;
+    background-color: #ffffff;
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 40px;
+    border-radius: 16px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+}
+
+h1 {
+    color: #1a73e8;
+    font-weight: 700;
+    font-size: 2.4em;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #e8eaed;
+    padding-bottom: 10px;
+}
+
+h2 {
+    color: #1a73e8;
+    font-weight: 600;
+    font-size: 1.8em;
+    margin-top: 40px;
+    margin-bottom: 15px;
+    padding-top: 10px;
+}
+
+h3 {
+    color: #3c4043;
+    font-weight: 600;
+    font-size: 1.4em;
+    margin-top: 30px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-color: #e8eaed;
+    margin: 40px 0;
+}
+
+.task-container {
+    background-color: #f8f9fa;
+    border-left: 4px solid #1a73e8;
+    padding: 20px 25px;
+    margin: 25px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.03);
+}
+
+.task-header {
+    font-weight: 700;
+    color: #1a73e8;
+    font-size: 1.1em;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+img {
+    display: block;
+    margin: 25px auto;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.08);
+    border: 1px solid #f1f3f4;
+}
+
+ul, ol {
+    padding-left: 25px;
+}
+
+li {
+    margin-bottom: 12px;
+}
+
+code {
+    background-color: #e8f0fe;
+    padding: 2px 5px;
+    border-radius: 4px;
+    font-family: monospace;
+    color: #174ea6;
+}
+
+.toc-container {
+    background-color: #f8f9fa;
+    border: 1px solid #e8eaed;
+    padding: 20px 25px;
+    border-radius: 12px;
+    margin: 30px 0;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.02);
+}
+.toc-container h3 {
+    margin-top: 0;
+    color: #1a73e8;
+    font-size: 1.3em;
+    border-bottom: 1px solid #e8eaed;
+    padding-bottom: 8px;
+}
+.toc-container ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+.toc-container li {
+    margin-bottom: 12px;
+}
+.toc-container a {
+    color: #3c4043;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s;
+}
+.toc-container a:hover {
+    color: #1a73e8;
+    text-decoration: none;
+}
+.nav-link {
+    text-align: right;
+    font-size: 0.95em;
+    margin: 20px 0;
+}
+.nav-link a {
+    color: #1a73e8;
+    text-decoration: none;
+    font-weight: 600;
+}
+</style>
+
+<div id='top'></div>
+<div class="toc-container">
+<h3>Table of Contents</h3>
+<ul>
+  <li><a href="#section-1">Welcome & Prerequisites</a></li>
+  <li><a href="#section-2">1: Navigating the Interface & Basic Assistant Features</a></li>
+  <li><a href="#section-3">2: Web Search, File Analysis & Data Handling</a></li>
+  <li><a href="#section-4">3: Configuring Personalization</a></li>
+  <li><a href="#section-5">4: Searching Internal Company Data</a></li>
+  <li><a href="#section-6">5: Using @ Mentions and Calling Agents Directly</a></li>
+  <li><a href="#section-7">6: Brainstorming with Idea Generation</a></li>
+  <li><a href="#section-8">7: Conducting Deep Research</a></li>
+  <li><a href="#section-9">8: Generating Media (Images and Video)</a></li>
+  <li><a href="#section-10">9: Unlocking Insights with NotebookLM</a></li>
+  <li><a href="#section-11">10: Build an Agent from a Prompt with Agent Designer</a></li>
+  <li><a href="#section-12">11: Build an Agent with the Agent Designer Builder</a></li>
+</ul>
+</div>
+
+
+
+
+<div style="font-size: 1.2em;">
+
+# Hands-on Lab: Unlocking Day 1 Value in Gemini Enterprise
+
+Author: Carlos Augusto <br>
+Last Modified: 3/18/2026
+
+
+<div id='section-1'></div>
+## Welcome & Prerequisites
+
+Welcome to the Gemini Enterprise hands-on lab! 
+
+In this session, you will explore the core day-one capabilities of the platform. Before we begin, please ensure you are logged into your provided Google account and have navigated to the Gemini Enterprise landing page. Your environment has already been provisioned with the necessary access to complete these exercises.
+
+<br>
+
+<img src="jumpstart_images/image.png" style="width: 90%;" />
+
+<br>
+
+
+<div class="nav-link"><a href="#top">↑ Back to Top</a></div>
+
+---
+
+<div id='section-2'></div>
+## <div class='task-container'><div class='task-header'>Task</div>Task 1: Navigating the Interface & Basic Assistant Features
+
+Let's start by getting familiar with the Gemini Enterprise interface and some of its foundational tools.
+
+1. **Explore the Landing Page and Prompt Chips:**
+   * On the main screen, notice the **Prompt chips** located directly below the Omnibar.
+     * *Prompt chips are pre-written, clickable suggestions designed to help you discover new use cases and get started quickly without having to type out a full command from scratch.*
+     * *They provide instant examples of how to format effective queries for tasks like summarizing documents, brainstorming, or analyzing data.*
+   * Click **"Go off-script"**.
+   * Choose **"Plan a fun virtual happy hour for my team."**.
+   * Submit the first query by clicking the **paper airplane icon**. 
+
+<img src="jumpstart_images/image-2.png" style="width: 90%;" />
+
+
+2. **Conversation History:**
+   * Look at the left navigation panel.
+   * Your conversations are automatically stored under the **Chats** tab for 60 days. <br>
+   * You can "Star" your most useful conversations to keep them permanently in the **Starred** tab:
+     * **Click** the Star icon on the top right of any conversation.
+   <br>
+
+   <img src="jumpstart_images/image-3.png" style="width: 90%;" />
+
+   <br>
+
+   * You can also use the search icon here to find specific past conversations:
+     * **Click** the Search icon on the left navigation.
+     * Type `virtual`.
+     * Notice it finds the conversations with this term.
+   
+   <br>
+
+   <img src="jumpstart_images/image-4.png" style="width: 90%;" />
+
+   <br>
+
+3. **Translation:** Click "New Chat" and, using the Omnibar, type a short phrase in English and ask Gemini Enterprise to translate it. For example: `Translate 'Welcome to the future of work' into Spanish, French, and Japanese.`
+
+   <br>
+   
+   <img src="jumpstart_images/image-5.png" style="width: 90%;" />
+
+   <br>
+
+4. **Code Generation:**
+   * Click **"New Chat"**.
+   * Using the Omnibar, ask the assistant to generate a simple script. <br>
+   * Type: `Write a Python script to print the first 10 Fibonacci numbers.` <br>
+   * Notice that when the response generates, you can easily:
+     * Click **Show code** to view the formatting.
+     * Click **Copy code** to export it to your clipboard.
+
+   <br>
+   
+   <img src="jumpstart_images/image-6.png" style="width: 90%;" />
+
+   <br>
+
+<div class="nav-link"><a href="#top">↑ Back to Top</a></div>
+
+---
+
+<div id='section-3'></div>
+## <div class='task-container'><div class='task-header'>Task</div>Task 2: Web Search, File Analysis & Data Handling
+
+Gemini Enterprise can analyze public web data, process files, and format data for external use.
+
+1. **Enable Google Search:** On the omnibar, locate the **Tools** icon and ensure **Google Search** is enabled.
+   
+2. **Search the Web:** In the Omnibar, type: `Who are the top competitors of [Insert Company Name]?`. 
+
+   <br>
+
+   <img src="jumpstart_images/image-7.png" style="width: 90%;" />
+   
+   <br>
+
+3. **Check the Sources:** When the answer generates, notice that the response includes hyperlinked reference citations. Click on these citations to view the exact public websites used as answer sources.
+   
+   <br>
+
+   <img src="jumpstart_images/image-8.png" style="width: 90%;" />
+   
+   <br>
+
+4. **Follow-Up Questions:**
+   * Highlight a specific sentence or section of the generated text.
+     * *A tooltip will appear allowing you to ask a specific follow-up question on that exact topic.*
+   * **Click** on the icon 99.
+   * **Type** `tell me more about this`.
+   * **Submit** the query. 
+
+   <br>
+
+   <img src="jumpstart_images/image-9.png" style="width: 90%;" />
+   
+   <br>
+
+5. **File Analysis:**
+   * You can analyze images, videos, or code directly. <br>
+   * Download the [Microservices Architecture PDF](https://github.com/caugusto/GE-Value-workshop/raw/main/data/ge_sample_data_for_workshop/microservices.pdf) and save it locally. <br>
+   * **Upload the file**:
+     * Drag and drop it directly into the Omnibar, OR
+     * Click the **+ icon** to upload. <br>
+   * **Type**: `What is this about and tell me the main elements of this image?`
+   
+   <br>
+
+   <img src="jumpstart_images/image-10.png" style="width: 90%;" />
+
+   <br>
+
+6. **Download Tabular Data:**
+   * Start a new chat.
+   * **Type**: `Create a table comparing the 5 largest countries in the world.` <br>
+   * Once the table is generated, look at the bottom right of the table:
+     * Click **Copy**, OR
+     * Click **Download Table** for further analysis.
+   
+   <br>
+
+   <img src="jumpstart_images/image-11.png" style="width: 90%;" />
+
+   <br>
+
+7. **Graph/Chart Generation:**
+   * You can generate a graph/chart from data.<br>
+   * Download the [Sales Performance CSV file](https://github.com/caugusto/GE-Value-workshop/raw/main/data/ge_sample_data_for_workshop/sales_performance.csv) and save it locally using **.csv** extension. <br>
+   * **Upload the file**:
+     * Drag and drop it directly into the Omnibar, OR
+     * Click the **+ icon** to upload. <br>
+   * **Type**: `create a pie chart of top 5 revenue states and combine the rest on others.`
+   
+   <br>
+
+   <img src="jumpstart_images/image-12.png" style="width: 90%;" />
+
+   <br>
+
+
+<div class="nav-link"><a href="#top">↑ Back to Top</a></div>
+
+---
+
+<div id='section-4'></div>
+## <div class='task-container'><div class='task-header'>Task</div>Task 3: Configuring Personalization
+
+Personalization allows Gemini Enterprise to tailor its responses based on a ~30-day window of your activity, Google Workspace data (1P apps like Gmail, Calendar, Drive), and connected third-party (3P) apps.
+
+1. **Navigate to Settings:**
+   * Click **Settings & help** (gear icon at bottom left).
+   * Click on **Personalization**.
+   <br>
+   
+   <img src="jumpstart_images/image-13.png" style="width: 90%;" />
+
+   <br>
+
+
+2. **Edit your Profile:**
+   * In the Profile section, enter the following details to give the assistant explicit context about you:
+     * **Preferred name**
+     * **Role or job title**
+     * **Industry**
+
+   <br>
+
+   <img src="jumpstart_images/image-14.png" style="width: 90%;" />
+
+   <br>
+
+3. **Enable Memory & History:**
+   * Ensure the following toggles are turned on to help the assistant learn from past interactions:
+     * **Conversation history**
+     * **Reference saved memories**
+
+   <br>
+
+   <img src="jumpstart_images/image-15.png" style="width: 90%;" />
+
+   <br>
+
+4. **Appearance:**
+   * Still under Settings, click on **Appearance**.
+   * Make sure **all** home page elements are checked.
+   * *Optional: Pick your theme (Light or Dark).*
+
+   <br>
+
+   <img src="jumpstart_images/image-16.png" style="width: 90%;" />
+
+   <br>
+
+<div class="nav-link"><a href="#top">↑ Back to Top</a></div>
+
+---
+
+<div id='section-5'></div>
+## <div class='task-container'><div class='task-header'>Task</div>Task 4: Searching Internal Company Data
+
+Gemini Enterprise allows you to securely query your connected enterprise data and extract insights from text and visuals.
+
+1. Click the **New chat** button on the top left corner to start a new chat.
+   
+2. In the search bar, click the **Tools** button, and select **Search Company data**.
+   
+3. Enter the following prompt: `Who is the CEO of Cymbal Bank?`
+
+   <br>
+
+   <img src="jumpstart_images/image-17.png" style="width: 90%;" />
+
+   <br>
+
+4. Review the answer, which is synthesized directly from your internal company files. 
+   
+   <br>
+
+   <img src="jumpstart_images/image-18.png" style="width: 90%;" />
+   
+   <br>
+
+5. Click the **New chat** button on the top left corner to start a new chat.
+
+6. In the search bar, click the **Tools** button, and select **Search Company data**.
+
+7. Enter the following prompt: `"Summarize the customer sentiment pie chart"`
+
+8. Notice how Gemini Enterprise can interpret, analyze, and summarize visual data stored within your organization's documents.
+   
+   <br>
+
+   <img src="jumpstart_images/image-19.png" style="width: 90%;" />
+
+   <br>
+
+<div class="nav-link"><a href="#top">↑ Back to Top</a></div>
+
+---
+
+<div id='section-6'></div>
+## <div class='task-container'><div class='task-header'>Task</div>Task 5: Using @ Mentions and Calling Agents Directly
+
+You can seamlessly bring external context, files, people, or specific AI agents directly into your current chat flow using the Omnibar. 
+
+1. **Open the Context Menu:**
+   * In the Omnibar, type **`@`**.
+   * *Note: You can use this to call specific **Files**, **People**, or **Agents**.*
+   
+2. **Call an Agent:**
+   * Type **`@Deep Research`**.
+   * Either hit the **spacebar** OR select it from the dropdown menu.
+
+3. Once the Deep Research agent is tagged in the Omnibar, append your research topic. Type: `The impact of AI on customer service`.
+   
+   <br>
+
+   <img src="jumpstart_images/image-20.png" style="width: 90%;" />
+
+   <br>
+
+4. **Submit the Question:**
+   * Click submit.
+   * *Notice how the Deep Research agent takes over directly, bypassing the separate Agents tab.* 
+
+<div class="nav-link"><a href="#top">↑ Back to Top</a></div>
+
+---
+
+<div id='section-7'></div>
+## <div class='task-container'><div class='task-header'>Task</div>Task 6: Brainstorming with Idea Generation
+
+This agent continuously generates ideas on a topic, runs a multi-angle evaluation, and ranks them tournament-style.
+
+1. **Select the Agent:**
+   * Go to the **Agent** tab (left navigation bar).
+   * Select the **Idea Generation** agent. <br>
+   * *Note: Idea Generation is currently in preview.* <br>
+   
+
+2. Provide a topic to ideate around, such as: `Brainstorm a gamified employee onboarding process`.
+
+3. **Start the Session:**
+   * Review the tournament plan.
+   * Make edits by submitting feedback to the agent.
+   * When complete, click **Start Session**.
+   
+   <br>
+
+   <img src="jumpstart_images/image-21.png" style="width: 90%;" />
+
+   <br>
+
+4. Click into the newly-created tournament details. *(Note: The full tournament evaluation process will take several hours to complete. Once your session is submitted and running, you can move on to the next task and come back afterwards to check the results.)*
+
+
+<div class="nav-link"><a href="#top">↑ Back to Top</a></div>
+
+---
+
+<div id='section-8'></div>
+## <div class='task-container'><div class='task-header'>Task</div>Task 7: Conducting Deep Research
+
+The Deep Research agent provides in-depth, multi-page reports grounded in thorough web research and your company data.
+
+1. Under the **Agent** tab on the left navigation menu, select the **Deep Research** agent.
+   
+   <br>
+
+   <img src="jumpstart_images/image-22.png" style="width: 90%;" />
+
+   <br>
+
+2. Paste the following prompt: `Compare the effectiveness of different marketing strategies for reaching Gen Z consumers.`
+
+3. **Review Research Plan:**
+   * Review the generated plan.
+   * You can ask the assistant to make edits, OR
+   * Simply click **Start Research**.
+   
+   <br>
+
+   <img src="jumpstart_images/image-23.png" style="width: 90%;" />
+
+   <br>
+
+4. Wait a few minutes as Gemini Enterprise searches hundreds of sources, generates new questions, and refines its plan along the way. <br>
+
+5. **Review Results:**
+   * Read through the multi-page report.
+   * Review the citations.
+   * Listen to the audio summary (if available).
+
+   *(Note: The full process will take a few minutes to complete. If preferred, duplicate the browser tab and continue the lab tasks on the newly created tab. Come back to the original tab for results.)*
+   
+   <br>
+
+   <img src="jumpstart_images/image-24.png" style="width: 90%;" />
+
+   <br>
+
+<div class="nav-link"><a href="#top">↑ Back to Top</a></div>
+
+---
+
+<div id='section-9'></div>
+## <div class='task-container'><div class='task-header'>Task</div>Task 8: Generating Media (Images and Video)
+
+Gemini Enterprise allows you to generate images and videos using Google’s state-of-the-art models.
+
+1. **Access Image Generator:**
+   * Click the **New chat** button.
+   * In the Omnibar, select the **Image generator** tool.
+   
+2. Paste the following prompt: `I have a new product which can search across 100+ data sources and help me analyze blended data and create agents on this blended data. Generate an image for its website.`
+
+   <br>
+
+   <img src="jumpstart_images/image-25.png" style="width: 90%;" />
+
+   <br>
+
+3. Once the response is generated, click the option to copy or download the image.
+   
+   <br>
+
+   <img src="jumpstart_images/image-26.png" style="width: 90%;" />
+
+   <br>
+
+4. **Access Video Generator:**
+   * Click the **New chat** button.
+   * In the Omnibar, select the **Generate videos with Veo** tool.
+   
+5. Paste the following prompt to test the model's cinematic capabilities: `A cinematic time-lapse of a bustling futuristic server room with glowing blue lights, sleek data racks, and a smooth camera pan.`
+
+6. Once the response is generated, notice that the video is up to 8 seconds long and includes options to be downloaded for offline use.
+   
+   <br>
+
+   <img src="jumpstart_images/image-27.png" style="width: 90%;" />
+
+   <br>
+
+<div class="nav-link"><a href="#top">↑ Back to Top</a></div>
+
+---
+
+<div id='section-10'></div>
+## <div class='task-container'><div class='task-header'>Task</div>Task 9: Unlocking Insights with NotebookLM
+
+Embedded directly within Gemini Enterprise, **NotebookLM** serves as a specialized AI research and writing assistant designed to bridge the gap between vast data silos and actionable insights. Unlike general-purpose AI, it operates as a **"grounded" collaborator**, meaning its intelligence is strictly anchored to the specific documents you provide rather than general internet data.
+
+### Personal Knowledge Management
+NotebookLM transforms static files—such as PDFs, Google Docs, slide decks, and web URLs—into an **interactive knowledge base**. By focusing exclusively on your curated sets of content, it drastically reduces the risk of misinformation, ensuring that every answer is synthesized from your own trusted data.
+
+### Key Features & Functionality
+* **Source-Grounded Insights:** When you ask a question, NotebookLM provides **inline citations** that link directly to the original passage in your source documents, making fact-checking instantaneous.
+* **Multi-Modal Synthesis:** It can instantly generate structured outlines, study guides, or creative briefs based on hundreds of pages of messy notes or complex technical manuals.
+* **Audio Overviews:** A standout feature is the ability to generate **Deep Dive Audio Discussions**. It creates a conversational, podcast-style summary where AI hosts explain the key themes and nuances of your uploaded material.
+* **Enterprise-Grade Compliance:** Because it is integrated into Gemini Enterprise, your data remains private. Your proprietary information is **never used to train** global AI models, ensuring your intellectual property stays within your organization’s secure boundary.
+
+### The Strategic Advantage
+Essentially, NotebookLM is built for the "heavy lifting" phase of a project. While standard AI is great for general tasks, NotebookLM is where you go when you need to master a specific, complex topic—such as analyzing a year's worth of legal transcripts or preparing a strategy based on internal market research. To get started:
+
+
+1. **Navigate to Agents:**
+   * Expand the left navigation menu.
+   * Click on the **Agents** tab.
+
+2. Select **NotebookLM**.
+   
+   <br>
+
+   <img src="jumpstart_images/image-28.png" style="width: 90%;" />
+
+   <br>
+
+
+3. Click **Create a new Notebook**.
+   
+   <br>
+
+   <img src="jumpstart_images/image-29.png" style="width: 90%;" />
+
+   <br>
+
+
+4. **Import Content:**
+   * Download the following sample documents to your local machine:
+     * [Web Company's Product Capabilities](https://github.com/caugusto/GE-Value-workshop/blob/main/data/ge_sample_data_for_workshop/acme-co/Web%20Company's%20Product%20Capabilities.pdf)
+     * [Web Design RFP](https://github.com/caugusto/GE-Value-workshop/blob/main/data/ge_sample_data_for_workshop/acme-co/Web%20Design%20RFP.pdf)
+   * Import both files into your newly created notebook to begin the analysis.   
+   
+   <br>
+
+   <img src="jumpstart_images/image-30.png" style="width: 90%;" />
+
+   <br>
+
+5. In the chat interface (bottom middle), type: `Summarize the key requirements, evaluation criteria, and deadlines outlined in the RFP`.
+
+6. When the answer is returned, click on a citation number within the text to view the specific source content for that point.
+   
+   <br>
+
+   <img src="jumpstart_images/image-31.png" style="width: 90%;" />
+
+   <br>
+
+7. Ask a follow up question: `Are there any gaps we cant cover based on the rfp requirements?`
+
+
+8. Locate the **Mind Map** feature in the NotebookLM interface and click on it to create one. Once generated, explore the map.
+   
+   <br>
+
+   <img src="jumpstart_images/image-32.png" style="width: 90%;" />
+
+   <br>
+
+
+9. **Customize Audio Overview:**
+   * Locate the **Audio Overview** feature.
+   * Hover over it and click the **three dots**.
+   * Select the option to **customize** the audio focus.
+
+
+   <br>
+
+   <img src="jumpstart_images/image-34.png" style="width: 90%;" />
+
+   <br>
+
+   * **Generate Audio:**
+     * **Type**: `Focus on why Acme's solutions and products for this RFP`.
+     * Choose **Default length**.
+     * Click **Generate** to create a dynamic, podcast-style audio discussion.
+   
+   <img src="jumpstart_images/image-33.png" style="width: 90%;" />
+
+   <br>
+
+   *(Note: The full audio generation may take several minutes to complete. Once your audio generation is submitted and running, you can move on to the next task and come back afterwards to check the results.)*
+
+
+10. **Customize Video Overview:**
+    * Locate the **Video Overview** feature.
+    * Hover over it and click the **three dots**.
+    * Select the option to **customize** the video focus.
+
+
+   <br>
+
+   <img src="jumpstart_images/image-35.png" style="width: 90%;" />
+
+   <br>
+
+   * **Generate Video:**
+     * **Type**: `Focus on why Acme's solutions and products for this RFP`.
+     * Click **Generate** to create a video discussion.
+   
+   <img src="jumpstart_images/image-36.png" style="width: 90%;" />
+
+   <br>
+
+   *(Note: The full video generation may take several minutes to complete. Once your video generation is submitted and running, you can move on to the next task and come back afterwards to check the results.)*
+
+
+11. **Generate FAQ Report:**
+    * Locate the **Reports** feature.
+    * Click on it and select **FAQ**.
+    * *Notice a new note is generated under the studio column.*
+
+   <br>
+
+   <img src="jumpstart_images/image-37.png" style="width: 90%;" />
+
+   <br>
+
+12. **Saving a New Note:**
+    * In the **Chat area**, type: `What criteria will DreamWeave use for evaluation?`
+    * Submit the question.
+    * Once you get an answer, click the **"Save to note"** button at the bottom.
+    * *Notice a new note is automatically generated in the Studio area.*
+
+   <br>
+
+   <img src="jumpstart_images/image-38.png" style="width: 90%;" />
+
+   <br>
+
+   <img src="jumpstart_images/image-39.png" style="width: 90%;" />
+
+   <br>
+
+13. **Experiment with Your Data and Prompts**: Don’t hesitate to experiment with different ways of interacting with NotebookLM. Whether you're asking for summaries, brainstorming ideas, or generating new content, varying your prompts can unlock creative insights you may not have   anticipated. For instance, instead of just asking for an overview, try prompting NotebookLM to compare two different policies or identify emerging trends. The tool’s flexibility means there’s always room for discovery. 
+
+   Here are some prompt ideas for you to try:
+   - Explain this document in the form of a short story.
+   - Compare and contrast Document 1 with Document 2.
+   - Give me a pro/cons list for the solutions proposed in this document.
+   - Format a proposal for X based on the information in these documents.
+
+
+<div class="nav-link"><a href="#top">↑ Back to Top</a></div>
+
+---
+
+<div id='section-11'></div>
+## <div class='task-container'><div class='task-header'>Task</div>Task 10: Build an Agent from a Prompt with Agent Designer
+
+With Agent Designer enabled, you can rapidly build custom agents starting with just a simple text prompt.
+
+1. In the left-hand navigation menu, click **Agents**.
+
+2. Click **+ New agent**.
+
+   <br>
+   
+   <img src="jumpstart_images/image-40.png" style="width: 90%;" />
+
+   <br>
+
+3. At the bottom of the Agent Designer page, you'll see a prompt input. Enter: 
+   `Use google search capabilities to prepare a daily briefing of news from the past 48 hours on the topics provided. The brief should be presented in a bulleted list with key phrases bolded.`
+
+   <br>
+
+   <img src="jumpstart_images/image-41.png" style="width: 90%;" />
+
+   <br>
+
+4. **Submit the Prompt:**
+   * Click submit.
+   * *You will see a preview panel featuring a draft of your agent.*
+   * *You can test it and suggest edits in the chat panel on the left.*
+
+5. **Explore Agent View:**
+   * At the top of the agent's preview card, explore **Flow**, **Schedule**, and **Preview**.
+   * Click **Flow** to see the auto-created Builder view.
+   
+   <img src="jumpstart_images/image-42.png" style="width: 90%;" />
+
+6. Click **Schedule** at the top of the agent draft panel to automate your daily briefing.
+
+7. Click **+ Add schedule**. 
+
+   <img src="jumpstart_images/image-43.png" style="width: 90%;" />
+
+8. Keep the frequency set to **Daily** with the default time and timezone. For the **triggering prompt**, enter:
+
+       Prepare my daily briefing on the following topics:
+       - Lawn watering automation
+       - Solar panel technology
+       - Landscape lighting
+       - Sales on large planters
+   
+   <img src="jumpstart_images/image-44.png" style="width: 90%;" />
+
+9. Click **Add schedule** at the bottom to confirm.
+
+10. Click the **play icon (Run in Preview)** to run the agent with the scheduled prompt immediately. 
+
+<img src="jumpstart_images/image-45.png" style="width: 90%;" />
+
+<br>
+
+You'll see a result in the agent draft's Preview tab.
+
+11. To save your agent for future use, click **Create** in the upper right. *(Note: This scheduled agent will now run daily based on the schedule you set.)*
+
+12. **Test the Agent:**
+    * Select **Agents** on the left navigation panel.
+    * **Click** on the newly created agent.
+   
+   Make sure the **Google Search** connector is enabled under Tools and type `I need a quick news summary on global economic trends and cybersecurity threats over the last 48 hours.`
+
+   <br>
+
+   <img src="jumpstart_images/image-46.png" style="width: 90%;" />
+
+<div class="nav-link"><a href="#top">↑ Back to Top</a></div>
+
+---
+
+<div id='section-12'></div>
+## <div class='task-container'><div class='task-header'>Task</div>Task 11: Build an Agent with the Agent Designer Builder
+
+Take more control of the agent-building process by using the manual Builder interface and adding multi-step subagents.
+
+1. In the left-hand menu, under the **Agents** header, click **+ New agent**.
+
+2. To bypass the prompt input and build manually, click the **Proceed to Builder** link.
+   
+3. Click the starting agent node named **My Agent**.
+
+4. Update the agent's **Name** to `Sales Call Followup Agent`.
+
+5. Next to the agent's Name field, click on the upload icon labeled **Icon**. [Download a Sample Robot Icon here](https://github.com/caugusto/GE-Value-workshop/raw/main/data/ge_sample_data_for_workshop/robot_icon.jpg).
+   
+   <img src="jumpstart_images/image-47.png" style="width: 90%;" />
+
+6. For the **Description**, enter:
+   `Agent to help with next steps after sales calls.`
+
+7. For **Instructions**, enter:
+   `When presented with notes from a sales call, write a 1-sentence paragraph thanking the customer for the opportunity to bid on their project and write a paragraph to summarize of the call. Then transfer to the Followup Questions subagent.`
+
+8. **Add a Subagent:**
+   * Click the grid to dismiss the detail popup.
+   * Hover over the agent node.
+   * Click the **plus icon** to add a subagent.
+   
+   <img src="jumpstart_images/image-48.png" style="width: 90%;" />
+
+9. Update the subagent's **Name** to `Followup Questions`.
+
+10. For the **Description**, enter:
+    `Generate additional discovery questions based on the customer's scope.`
+
+11. For **Instructions**, enter:
+    `Develop a list of discovery questions to define the client's needs requirements for materials, tools, and additional expenses (walkway stones, fountains, landscape lighting, etc. in greater detail).`
+
+12. In the upper right corner, click **Create**.
+
+13. Click **Chat with Agent**. In the input field, test your new agent by entering the following sales call notes:
+
+        The Wilson Hotel Sales Call Notes:
+        - customer needs lawn maintenance
+        - 3 hectares of land
+        - needs a pond dug and 3 trees planted
+        - wants lawn maintained twice per month
+    
+    <img src="jumpstart_images/image-49.png" style="width: 90%;" />
+
+14. In the left-hand navigation, click the **Agents** section header. You will now see your *Sales Call Followup Agent* listed under *Your agents*.
+
+15. **Pin the Agent:**
+    * Click the **three dots** on the agent's card.
+    * Select the **pin icon** for quick access from the navigation pane.
+    
+    <img src="jumpstart_images/image-50.png" style="width: 90%;" />
+
+</div>
+<div class="nav-link"><a href="#top">↑ Back to Top</a></div>
+
+---
+
+## 🎉 Congratulations!
+
+You have completed the **Gemini Enterprise Hands-on Lab**.
+
+**What you accomplished today:**
+- **Familiarized** yourself with the basic Assistant features.
+- **Leveraged** Search and File Analysis to interact with web and internal data.
+- **Personalized** your experience to streamline workflow.
+- **Discovered and Created custom agents** to solve common workflow problems in just a few steps.
+
+You are now ready to apply these items to increase your daily productivity.
