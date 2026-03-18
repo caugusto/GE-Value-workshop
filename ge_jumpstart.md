@@ -1,138 +1,4 @@
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
-
-body {
-    font-family: 'Inter', 'Helvetica Neue', Helvetica, sans-serif;
-    line-height: 1.8;
-    color: #1f1f1f;
-    background-color: #ffffff;
-    max-width: 900px;
-    margin: 30px auto;
-    padding: 40px;
-    border-radius: 16px;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
-}
-
-h1 {
-    color: #1a73e8;
-    font-weight: 700;
-    font-size: 2.4em;
-    margin-bottom: 20px;
-    border-bottom: 2px solid #e8eaed;
-    padding-bottom: 10px;
-}
-
-h2 {
-    color: #1a73e8;
-    font-weight: 600;
-    font-size: 1.8em;
-    margin-top: 40px;
-    margin-bottom: 15px;
-    padding-top: 10px;
-}
-
-h3 {
-    color: #3c4043;
-    font-weight: 600;
-    font-size: 1.4em;
-    margin-top: 30px;
-}
-
-hr {
-    border: 0;
-    height: 1px;
-    background-color: #e8eaed;
-    margin: 40px 0;
-}
-
-.task-container {
-    background-color: #f8f9fa;
-    border-left: 4px solid #1a73e8;
-    padding: 20px 25px;
-    margin: 25px 0;
-    border-radius: 8px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.03);
-}
-
-.task-header {
-    font-weight: 700;
-    color: #1a73e8;
-    font-size: 1.1em;
-    margin-bottom: 10px;
-    display: flex;
-    align-items: center;
-}
-
-img {
-    display: block;
-    margin: 25px auto;
-    border-radius: 12px;
-    box-shadow: 0 8px 16px rgba(0,0,0,0.08);
-    border: 1px solid #f1f3f4;
-}
-
-ul, ol {
-    padding-left: 25px;
-}
-
-li {
-    margin-bottom: 12px;
-}
-
-code {
-    background-color: #e8f0fe;
-    padding: 2px 5px;
-    border-radius: 4px;
-    font-family: monospace;
-    color: #174ea6;
-}
-
-.toc-container {
-    background-color: #f8f9fa;
-    border: 1px solid #e8eaed;
-    padding: 20px 25px;
-    border-radius: 12px;
-    margin: 30px 0;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.02);
-}
-.toc-container h3 {
-    margin-top: 0;
-    color: #1a73e8;
-    font-size: 1.3em;
-    border-bottom: 1px solid #e8eaed;
-    padding-bottom: 8px;
-}
-.toc-container ul {
-    list-style-type: none;
-    padding-left: 0;
-    margin-bottom: 0;
-}
-.toc-container li {
-    margin-bottom: 12px;
-}
-.toc-container a {
-    color: #3c4043;
-    text-decoration: none;
-    font-weight: 500;
-    transition: color 0.2s;
-}
-.toc-container a:hover {
-    color: #1a73e8;
-    text-decoration: none;
-}
-.nav-link {
-    text-align: right;
-    font-size: 0.95em;
-    margin: 20px 0;
-}
-.nav-link a {
-    color: #1a73e8;
-    text-decoration: none;
-    font-weight: 600;
-}
-</style>
-
 <div id='top'></div>
 <div class="toc-container">
 <h3>Table of Contents</h3>
@@ -172,7 +38,7 @@ In this session, you will explore the core day-one capabilities of the platform.
 
 <br>
 
-<img src="jumpstart_images/image.png" style="width: 90%;" />
+<img src="jumpstart_images/image.png" width="90%" />
 
 <br>
 
@@ -194,7 +60,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
    * Choose **"Plan a fun virtual happy hour for my team."**.
    * Submit the first query by clicking the **paper airplane icon**. 
 
-<img src="jumpstart_images/image-2.png" style="width: 90%;" />
+<img src="jumpstart_images/image-2.png" width="90%" />
 
 
 2. **Conversation History:**
@@ -204,7 +70,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
      * **Click** the Star icon on the top right of any conversation.
    <br>
 
-   <img src="jumpstart_images/image-3.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-3.png" width="90%" />
 
    <br>
 
@@ -215,7 +81,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
    
    <br>
 
-   <img src="jumpstart_images/image-4.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-4.png" width="90%" />
 
    <br>
 
@@ -223,7 +89,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
 
    <br>
    
-   <img src="jumpstart_images/image-5.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-5.png" width="90%" />
 
    <br>
 
@@ -237,7 +103,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
 
    <br>
    
-   <img src="jumpstart_images/image-6.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-6.png" width="90%" />
 
    <br>
 
@@ -256,7 +122,7 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
 
    <br>
 
-   <img src="jumpstart_images/image-7.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-7.png" width="90%" />
    
    <br>
 
@@ -264,7 +130,7 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
    
    <br>
 
-   <img src="jumpstart_images/image-8.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-8.png" width="90%" />
    
    <br>
 
@@ -277,7 +143,7 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
 
    <br>
 
-   <img src="jumpstart_images/image-9.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-9.png" width="90%" />
    
    <br>
 
@@ -291,7 +157,7 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
    
    <br>
 
-   <img src="jumpstart_images/image-10.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-10.png" width="90%" />
 
    <br>
 
@@ -304,7 +170,7 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
    
    <br>
 
-   <img src="jumpstart_images/image-11.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-11.png" width="90%" />
 
    <br>
 
@@ -318,7 +184,7 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
    
    <br>
 
-   <img src="jumpstart_images/image-12.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-12.png" width="90%" />
 
    <br>
 
@@ -337,7 +203,7 @@ Personalization allows Gemini Enterprise to tailor its responses based on a ~30-
    * Click on **Personalization**.
    <br>
    
-   <img src="jumpstart_images/image-13.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-13.png" width="90%" />
 
    <br>
 
@@ -350,7 +216,7 @@ Personalization allows Gemini Enterprise to tailor its responses based on a ~30-
 
    <br>
 
-   <img src="jumpstart_images/image-14.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-14.png" width="90%" />
 
    <br>
 
@@ -361,7 +227,7 @@ Personalization allows Gemini Enterprise to tailor its responses based on a ~30-
 
    <br>
 
-   <img src="jumpstart_images/image-15.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-15.png" width="90%" />
 
    <br>
 
@@ -372,7 +238,7 @@ Personalization allows Gemini Enterprise to tailor its responses based on a ~30-
 
    <br>
 
-   <img src="jumpstart_images/image-16.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-16.png" width="90%" />
 
    <br>
 
@@ -393,7 +259,7 @@ Gemini Enterprise allows you to securely query your connected enterprise data an
 
    <br>
 
-   <img src="jumpstart_images/image-17.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-17.png" width="90%" />
 
    <br>
 
@@ -401,7 +267,7 @@ Gemini Enterprise allows you to securely query your connected enterprise data an
    
    <br>
 
-   <img src="jumpstart_images/image-18.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-18.png" width="90%" />
    
    <br>
 
@@ -415,7 +281,7 @@ Gemini Enterprise allows you to securely query your connected enterprise data an
    
    <br>
 
-   <img src="jumpstart_images/image-19.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-19.png" width="90%" />
 
    <br>
 
@@ -440,7 +306,7 @@ You can seamlessly bring external context, files, people, or specific AI agents 
    
    <br>
 
-   <img src="jumpstart_images/image-20.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-20.png" width="90%" />
 
    <br>
 
@@ -472,7 +338,7 @@ This agent continuously generates ideas on a topic, runs a multi-angle evaluatio
    
    <br>
 
-   <img src="jumpstart_images/image-21.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-21.png" width="90%" />
 
    <br>
 
@@ -492,7 +358,7 @@ The Deep Research agent provides in-depth, multi-page reports grounded in thorou
    
    <br>
 
-   <img src="jumpstart_images/image-22.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-22.png" width="90%" />
 
    <br>
 
@@ -505,7 +371,7 @@ The Deep Research agent provides in-depth, multi-page reports grounded in thorou
    
    <br>
 
-   <img src="jumpstart_images/image-23.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-23.png" width="90%" />
 
    <br>
 
@@ -520,7 +386,7 @@ The Deep Research agent provides in-depth, multi-page reports grounded in thorou
    
    <br>
 
-   <img src="jumpstart_images/image-24.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-24.png" width="90%" />
 
    <br>
 
@@ -541,7 +407,7 @@ Gemini Enterprise allows you to generate images and videos using Google’s stat
 
    <br>
 
-   <img src="jumpstart_images/image-25.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-25.png" width="90%" />
 
    <br>
 
@@ -549,7 +415,7 @@ Gemini Enterprise allows you to generate images and videos using Google’s stat
    
    <br>
 
-   <img src="jumpstart_images/image-26.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-26.png" width="90%" />
 
    <br>
 
@@ -563,7 +429,7 @@ Gemini Enterprise allows you to generate images and videos using Google’s stat
    
    <br>
 
-   <img src="jumpstart_images/image-27.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-27.png" width="90%" />
 
    <br>
 
@@ -597,7 +463,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
    
    <br>
 
-   <img src="jumpstart_images/image-28.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-28.png" width="90%" />
 
    <br>
 
@@ -606,7 +472,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
    
    <br>
 
-   <img src="jumpstart_images/image-29.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-29.png" width="90%" />
 
    <br>
 
@@ -619,7 +485,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
    
    <br>
 
-   <img src="jumpstart_images/image-30.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-30.png" width="90%" />
 
    <br>
 
@@ -629,7 +495,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
    
    <br>
 
-   <img src="jumpstart_images/image-31.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-31.png" width="90%" />
 
    <br>
 
@@ -640,7 +506,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
    
    <br>
 
-   <img src="jumpstart_images/image-32.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-32.png" width="90%" />
 
    <br>
 
@@ -653,7 +519,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
 
    <br>
 
-   <img src="jumpstart_images/image-34.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-34.png" width="90%" />
 
    <br>
 
@@ -662,7 +528,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
      * Choose **Default length**.
      * Click **Generate** to create a dynamic, podcast-style audio discussion.
    
-   <img src="jumpstart_images/image-33.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-33.png" width="90%" />
 
    <br>
 
@@ -677,7 +543,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
 
    <br>
 
-   <img src="jumpstart_images/image-35.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-35.png" width="90%" />
 
    <br>
 
@@ -685,7 +551,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
      * **Type**: `Focus on why Acme's solutions and products for this RFP`.
      * Click **Generate** to create a video discussion.
    
-   <img src="jumpstart_images/image-36.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-36.png" width="90%" />
 
    <br>
 
@@ -699,7 +565,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
 
    <br>
 
-   <img src="jumpstart_images/image-37.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-37.png" width="90%" />
 
    <br>
 
@@ -711,11 +577,11 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
 
    <br>
 
-   <img src="jumpstart_images/image-38.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-38.png" width="90%" />
 
    <br>
 
-   <img src="jumpstart_images/image-39.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-39.png" width="90%" />
 
    <br>
 
@@ -743,7 +609,7 @@ With Agent Designer enabled, you can rapidly build custom agents starting with j
 
    <br>
    
-   <img src="jumpstart_images/image-40.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-40.png" width="90%" />
 
    <br>
 
@@ -752,7 +618,7 @@ With Agent Designer enabled, you can rapidly build custom agents starting with j
 
    <br>
 
-   <img src="jumpstart_images/image-41.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-41.png" width="90%" />
 
    <br>
 
@@ -765,13 +631,13 @@ With Agent Designer enabled, you can rapidly build custom agents starting with j
    * At the top of the agent's preview card, explore **Flow**, **Schedule**, and **Preview**.
    * Click **Flow** to see the auto-created Builder view.
    
-   <img src="jumpstart_images/image-42.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-42.png" width="90%" />
 
 6. Click **Schedule** at the top of the agent draft panel to automate your daily briefing.
 
 7. Click **+ Add schedule**. 
 
-   <img src="jumpstart_images/image-43.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-43.png" width="90%" />
 
 8. Keep the frequency set to **Daily** with the default time and timezone. For the **triggering prompt**, enter:
 
@@ -781,13 +647,13 @@ With Agent Designer enabled, you can rapidly build custom agents starting with j
        - Landscape lighting
        - Sales on large planters
    
-   <img src="jumpstart_images/image-44.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-44.png" width="90%" />
 
 9. Click **Add schedule** at the bottom to confirm.
 
 10. Click the **play icon (Run in Preview)** to run the agent with the scheduled prompt immediately. 
 
-<img src="jumpstart_images/image-45.png" style="width: 90%;" />
+<img src="jumpstart_images/image-45.png" width="90%" />
 
 <br>
 
@@ -803,7 +669,7 @@ You'll see a result in the agent draft's Preview tab.
 
    <br>
 
-   <img src="jumpstart_images/image-46.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-46.png" width="90%" />
 
 <div class="nav-link"><a href="#top">↑ Back to Top</a></div>
 
@@ -824,7 +690,7 @@ Take more control of the agent-building process by using the manual Builder inte
 
 5. Next to the agent's Name field, click on the upload icon labeled **Icon**. [Download a Sample Robot Icon here](https://github.com/caugusto/GE-Value-workshop/raw/main/data/ge_sample_data_for_workshop/robot_icon.jpg).
    
-   <img src="jumpstart_images/image-47.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-47.png" width="90%" />
 
 6. For the **Description**, enter:
    `Agent to help with next steps after sales calls.`
@@ -837,7 +703,7 @@ Take more control of the agent-building process by using the manual Builder inte
    * Hover over the agent node.
    * Click the **plus icon** to add a subagent.
    
-   <img src="jumpstart_images/image-48.png" style="width: 90%;" />
+   <img src="jumpstart_images/image-48.png" width="90%" />
 
 9. Update the subagent's **Name** to `Followup Questions`.
 
@@ -857,7 +723,7 @@ Take more control of the agent-building process by using the manual Builder inte
         - needs a pond dug and 3 trees planted
         - wants lawn maintained twice per month
     
-    <img src="jumpstart_images/image-49.png" style="width: 90%;" />
+    <img src="jumpstart_images/image-49.png" width="90%" />
 
 14. In the left-hand navigation, click the **Agents** section header. You will now see your *Sales Call Followup Agent* listed under *Your agents*.
 
@@ -865,7 +731,7 @@ Take more control of the agent-building process by using the manual Builder inte
     * Click the **three dots** on the agent's card.
     * Select the **pin icon** for quick access from the navigation pane.
     
-    <img src="jumpstart_images/image-50.png" style="width: 90%;" />
+    <img src="jumpstart_images/image-50.png" width="90%" />
 
 </div>
 <div class="nav-link"><a href="#top">↑ Back to Top</a></div>
