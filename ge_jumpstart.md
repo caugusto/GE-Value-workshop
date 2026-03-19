@@ -82,7 +82,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
 
 3. **Conversation History:**
    * Look at the left navigation panel.
-   * Your conversations are automatically stored under the **Chats** tab for 60 days. <br>
+   * Your conversations are automatically stored under the **Chats** tab for 60 days (default). <br>
    * You can "Star" your most useful conversations to keep them permanently in the **Starred** tab:
      * **Click** the Star icon on the top right of any conversation.
    <br>
