@@ -141,7 +141,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
    * Type: `Write a Python script to print the first 10 Fibonacci numbers.` <br>
    * Notice that when the response generates, you can easily:
      * Click **Show code** to view the formatting.
-     * Click **Copy code** to export it to your clipboard.
+     * Click the <img src="jumpstart_images/copy-icon.png" width="20px" style="vertical-align: middle; margin-top: -3px;" /> icon to export it to your clipboard.
 
    <br>
    
