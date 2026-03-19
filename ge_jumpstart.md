@@ -15,6 +15,7 @@
   <li><a href="#section-10">9: Unlocking Insights with NotebookLM</a></li>
   <li><a href="#section-11">10: Build an Agent from a Prompt with Agent Designer</a></li>
   <li><a href="#section-12">11: Build an Agent with the Agent Designer Builder</a></li>
+  <li><a href="#section-13">12: Review Submitted Tasks</a></li>
 </ul>
 </div>
 
@@ -747,6 +748,20 @@ Take more control of the agent-building process by using the manual Builder inte
     <img src="jumpstart_images/image-50_bordered.png" width="80%" />
 
 </div>
+<div class="nav-link"><a href="#top">↑ Back to Top</a></div>
+
+---
+
+<div id='section-13'></div>
+
+# Task 12: Review Submitted Tasks
+
+- Check Previously Submitted Deep Research and Audio
+- Check NotebookLM Audio and Video Generation
+- Check Idea Generation Tournment Progress (most likely still running)
+
+<br>
+
 <div class="nav-link"><a href="#top">↑ Back to Top</a></div>
 
 ---
