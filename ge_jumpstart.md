@@ -327,6 +327,8 @@ You can seamlessly bring external context, files, people, or specific AI agents 
 
 # Task 6: Brainstorming with Idea Generation
 
+The **Idea Generation** agent is designed to help you explore creative possibilities, brainstorm novel concepts or campaign angles, and generate comprehensive lists or tournaments of ideas. It acts as a creative partner to kickstart your thought process on any topic.
+
 This agent continuously generates ideas on a topic, runs a multi-angle evaluation, and ranks them tournament-style.
 
 1. **Select the Agent:**
@@ -358,6 +360,8 @@ This agent continuously generates ideas on a topic, runs a multi-angle evaluatio
 <div id='section-8'></div>
 
 # Task 7: Conducting Deep Research
+
+The **Deep Research** agent performs extensive, multi-step web research to synthesize detailed reports. It gathers cited sources, explores complex topics thoroughly, and provides comprehensive overviews to accelerate your understanding of new subjects.
 
 The Deep Research agent provides in-depth, multi-page reports grounded in thorough web research and your company data.
 
@@ -767,9 +771,9 @@ Take more control of the agent-building process by using the manual Builder inte
 
 # Task 12: Review Submitted Tasks
 
-- Check Previously Submitted Deep Research and Audio
+- Check Previously Submitted Deep Research Task
 - Check NotebookLM Audio and Video Generation
-- Check Idea Generation Tournment Progress (most likely still running)
+- Check Idea Generation Tournment Progress (should still be running)
 
 <br>
 
