@@ -253,7 +253,7 @@ Personalization allows Gemini Enterprise to tailor its responses based on a ~30-
 
 # Task 4: Searching Internal Company Data
 
-Gemini Enterprise allows you to securely query your connected enterprise data and extract insights from text and visuals.
+Gemini Enterprise allows you to securely query your connected enterprise data and extract insights from text and visuals. It can connect to Google 1st party solutions like Google Cloud Storage, BigQuery, Google Drive, and Google Calendar, but also 3rd party systems via numerous connectors available like Outlook, SharePoint, Jira, ServiceNow and others. For more details on connectors, see https://docs.cloud.google.com/gemini/enterprise/docs/connectors/introduction-to-connectors-and-data-stores
 
 1. Click the **New chat** button on the top left corner to start a new chat.
    
