@@ -57,7 +57,23 @@ In this session, you will explore the core day-one capabilities of the platform.
 
 Let's start by getting familiar with the Gemini Enterprise interface and some of its foundational tools.
 
-1. **Explore the Landing Page and Prompt Chips:**
+1. **Introduce the Chat Assistant:**
+   * In your app, you can chat about search results and uploaded content with the assistant. The assistant can provide summaries and answer questions through natural language conversations, and you can export the assistant's answers in common formats to share with others.
+   * To engage in a conversation with the assistant and view supporting sources:
+     * Type your question into the chat box. The assistant automatically provides a summary based on your search results.
+     * Ask follow-up questions to refine the answers. Save local images as needed, just like the others.
+
+   <br>
+   
+   <img src="jumpstart_images/assistant-chat_bordered.png" width="80%" />
+   
+   <br>
+   
+   <img src="jumpstart_images/assistant-sources_bordered.png" width="80%" />
+
+<br><br>
+
+2. **Explore the Landing Page and Prompt Chips:**
    * On the main screen, notice the **Prompt chips** located directly below the Omnibar.
      * *Prompt chips are pre-written, clickable suggestions designed to help you discover new use cases and get started quickly without having to type out a full command from scratch.*
      * *They provide instant examples of how to format effective queries for tasks like summarizing documents, brainstorming, or analyzing data.*
@@ -69,7 +85,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
 
 <br><br>
 
-2. **Conversation History:**
+3. **Conversation History:**
    * Look at the left navigation panel.
    * Your conversations are automatically stored under the **Chats** tab for 60 days. <br>
    * You can "Star" your most useful conversations to keep them permanently in the **Starred** tab:
@@ -91,7 +107,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
 
 <br><br>
 
-3. **Share a conversation:**
+4. **Share a conversation:**
    * To share your current conversation, click the **share** icon.
    * To share a previous conversation:
      * In the sidebar under **Chats**, hover over the chat you want to share.
@@ -104,7 +120,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
 
 <br><br>
 
-4. **View and manage your shared conversations:**
+5. **View and manage your shared conversations:**
    * Navigate to your Gemini Enterprise app.
    * Click the **settings** (gear) icon in the bottom left.
    * Click **Shared chats**.
@@ -116,7 +132,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
 
 <br><br>
 
-5. **Translation:** Click "New Chat" and, using the Omnibar, type a short phrase in English and ask Gemini Enterprise to translate it. For example: `Translate 'Welcome to the future of work' into Spanish, French, and Japanese.`
+6. **Translation:** Click "New Chat" and, using the Omnibar, type a short phrase in English and ask Gemini Enterprise to translate it. For example: `Translate 'Welcome to the future of work' into Spanish, French, and Japanese.`
 
    <br>
    
@@ -124,7 +140,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
 
 <br><br>
 
-6. **Code Generation:**
+7. **Code Generation:**
    * Click **"New Chat"**.
    * Using the Omnibar, ask the assistant to generate a simple script. <br>
    * Type: `Write a Python script to print the first 10 Fibonacci numbers.` <br>
