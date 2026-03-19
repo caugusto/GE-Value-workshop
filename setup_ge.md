@@ -6,7 +6,7 @@ This guide outlines the prerequisites and steps required to set up your environm
 
 ## 📋 Pre-Requirements
 
-Before configuring the application, ensure the following setup items are complete:
+Before using the [Jumpstart](https://github.com/caugusto/GE-Value-workshop/blob/main/ge_jumpstart.md), ensure the following setup items are complete:
 
 - [ ] **IAM Configured**: Verify that appropriate Identity and Access Management roles are active for the project.
 - [ ] **Licenses Assigned**: Confirm that Gemini Enterprise licenses have been allocated to your user account.
