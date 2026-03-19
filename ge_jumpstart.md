@@ -6,7 +6,7 @@
   <li><a href="#section-1">Welcome & Prerequisites</a></li>
   <li><a href="#section-2">1: Navigating the Interface & Basic Assistant Features</a></li>
   <li><a href="#section-3">2: Web Search, File Analysis & Data Handling</a></li>
-  <li><a href="#section-4">3: Configuring Personalization</a></li>
+  <li><a href="#section-4">3: Configuring Personalization and Appearance</a></li>
   <li><a href="#section-5">4: Searching Internal Company Data</a></li>
   <li><a href="#section-6">5: Using @ Mentions and Calling Agents Directly</a></li>
   <li><a href="#section-7">6: Brainstorming with Idea Generation</a></li>
@@ -223,9 +223,11 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
 
 <div id='section-4'></div>
 
-# Task 3: Configuring Personalization
+# Task 3: Configuring Personalization and Appearance
 
-Personalization allows Gemini Enterprise to tailor its responses based on a ~30-day window of your activity, Google Workspace data (1P apps like Gmail, Calendar, Drive), and connected third-party (3P) apps.
+**Appearance**: You can customize the appearance of Gemini Enterprise in a variety of ways, including adjusting the theme (System, Light, Dark) and chat density (Comfortable, Compact).
+
+**Personalization**: As you use Gemini Enterprise, it builds a personal memory by understanding your individual needs and work patterns, leading to more relevant and context-aware assistance. You can explicitly define your role and industry, manage connected sources, and save specific memories. Personalization allows Gemini Enterprise to tailor its responses based on a ~30-day window of your activity, Google Workspace data (1P apps like Gmail, Calendar, Drive), and connected third-party (3P) apps.
 
 1. **Navigate to Settings:**
    * Click **Settings & help** (gear icon at bottom left).
