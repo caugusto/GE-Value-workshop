@@ -127,7 +127,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
 
 <br><br>
 
-6. **Translation:** Click "New Chat" and, using the Omnibar, type a short phrase in English and ask Gemini Enterprise to translate it. For example: `Translate 'Welcome to the future of work' into Spanish, French, and Japanese.`
+6. **Translation:** Gemini Enterprise can perform language translations. Click "New Chat" and, using the Omnibar, type a short phrase in English and ask Gemini Enterprise to translate it. For example: `Translate 'Welcome to the future of work' into Spanish, French, and Japanese.`
 
    <br>
    
