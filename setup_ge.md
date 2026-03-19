@@ -58,3 +58,9 @@ Create **Data Stores** to bridge Gemini Enterprise with your data infrastructure
    - **Name**: Enter `Cloud Storage`.
    - **Pricing Model**: If prompted, leave as default and click **Continue**.
 8. Click **Create**.
+
+---
+
+> [!NOTE]
+> For more information on adding a GCS data store, visit https://docs.cloud.google.com/gemini/enterprise/docs/connectors/connect-cloud-storage
+
