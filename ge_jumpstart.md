@@ -59,9 +59,6 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
 
 1. **Introduce the Chat Assistant:**
    * In your app, you can chat about search results and uploaded content with the assistant. The assistant can provide summaries and answer questions through natural language conversations, and you can export the assistant's answers in common formats to share with others.
-   * To engage in a conversation with the assistant and view supporting sources:
-     * Type your question into the chat box. The assistant automatically provides a summary based on your search results.
-     * Ask follow-up questions to refine the answers. Save local images as needed, just like the others.
 
    <br>
    
