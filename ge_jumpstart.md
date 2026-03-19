@@ -42,7 +42,7 @@ In this session, you will explore the core day-one capabilities of the platform.
 
 <br>
 
-<img src="jumpstart_images/image_bordered.png" width="80%" />
+
 
 <br><br>
 
@@ -61,7 +61,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
 
    <br>
    
-   <img src="jumpstart_images/assistant-chat_bordered.png" width="80%" />
+   <img src="jumpstart_images/image_bordered.png" width="80%" />
 
 
 <br><br>
