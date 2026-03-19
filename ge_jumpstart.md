@@ -40,10 +40,6 @@ By leveraging Gemini Enterprise, organizations can drastically accelerate everyd
 
 In this session, you will explore the core day-one capabilities of the platform. Before we begin, please ensure you are logged into your provided Google account and have navigated to the Gemini Enterprise landing page. Your environment has already been provisioned with the necessary access to complete these exercises.
 
-<br>
-
-
-
 <br><br>
 
 <div class="nav-link"><a href="#top">↑ Back to Top</a></div>
@@ -70,6 +66,12 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
    * On the main screen, notice the **Prompt chips** located directly below the Omnibar.
      * *Prompt chips are pre-written, clickable suggestions designed to help you discover new use cases and get started quickly without having to type out a full command from scratch.*
      * *They provide instant examples of how to format effective queries for tasks like summarizing documents, brainstorming, or analyzing data.*
+
+   <br>
+   
+   <img src="jumpstart_images/prompt-chips_bordered.png" width="80%" />
+   
+   <br>
    * Click **"Go off-script"**.
    * Choose **"Plan a fun virtual happy hour for my team."**.
    * Submit the first query by clicking the **paper airplane icon**. 
