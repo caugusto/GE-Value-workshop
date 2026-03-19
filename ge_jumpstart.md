@@ -184,6 +184,9 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
 
    <img src="jumpstart_images/image-10_bordered.png" width="80%" />
 
+   <br>
+   *For more information, see [Supported File Formats and Sizes](https://docs.cloud.google.com/gemini/enterprise/docs/assistant-chat#file_formats_and_size_limitations).*
+
 <br><br>
 
 8. **Download Tabular Data:**
