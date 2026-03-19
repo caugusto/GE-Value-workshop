@@ -25,8 +25,7 @@
 
 # Hands-on Lab: Unlocking Day 1 Value in Gemini Enterprise
 
-Author: Carlos Augusto <br>
-Last Modified: 3/18/2026
+Last Modified: 3/19/2026
 
 
 <div id='section-1'></div>
