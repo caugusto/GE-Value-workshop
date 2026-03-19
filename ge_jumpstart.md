@@ -155,6 +155,7 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
 <br><br>
 
 5. **Analyze Concepts and Research Methodologies:**
+   * You can use Gemini Enterprise to obtain general information about research methodologies, scientific concepts, or public databases such as PubMed through a chat interface.
    * Start a **New Chat**.
    * In the chat box, enter a prompt such as the following:
    * **Type**: `My objective is to understand [specific topic, e.g., the methodology behind clinical trials for cancer research]. Please use all available external data sources, including [list of data sources, e.g., PubMed, Google Scholar, National Library of Medicine], to summarize the key statistical methods used to analyze data in each phase.`
