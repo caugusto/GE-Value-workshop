@@ -66,10 +66,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
    <br>
    
    <img src="jumpstart_images/assistant-chat_bordered.png" width="80%" />
-   
-   <br>
-   
-   <img src="jumpstart_images/assistant-sources_bordered.png" width="80%" />
+
 
 <br><br>
 
