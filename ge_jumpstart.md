@@ -636,7 +636,7 @@ With Agent Designer enabled, you can rapidly build custom agents starting with j
 4. **Submit the Prompt:**
    * Click submit.
    * *You will see a preview panel featuring a draft of your agent.*
-   * *You can test it and suggest edits in the chat panel on the left.*
+
 
 5. **Explore Agent View:**
    * At the top of the agent's preview card, explore **Flow**, **Schedule**, and **Preview**.
