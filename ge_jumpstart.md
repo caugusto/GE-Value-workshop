@@ -41,8 +41,7 @@ In this session, you will explore the core day-one capabilities of the platform.
 
 <img src="jumpstart_images/image_bordered.png" width="80%" />
 
-<br>
-
+<br><br>
 
 <div class="nav-link"><a href="#top">↑ Back to Top</a></div>
 
@@ -64,6 +63,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
 
 <img src="jumpstart_images/image-2_bordered.png" width="80%" />
 
+<br><br>
 
 2. **Conversation History:**
    * Look at the left navigation panel.
@@ -74,9 +74,9 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
 
    <img src="jumpstart_images/image-3_bordered.png" width="80%" />
 
-   <br><br>
+<br><br>
 
-   * You can also use the search icon here to find specific past conversations:
+* You can also use the search icon here to find specific past conversations:
      * **Click** the Search icon on the left navigation.
      * Type `virtual`.
      * Notice it finds the conversations with this term.
@@ -85,7 +85,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
 
    <img src="jumpstart_images/image-4_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
 3. **Translation:** Click "New Chat" and, using the Omnibar, type a short phrase in English and ask Gemini Enterprise to translate it. For example: `Translate 'Welcome to the future of work' into Spanish, French, and Japanese.`
 
@@ -93,7 +93,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
    
    <img src="jumpstart_images/image-5_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
 4. **Code Generation:**
    * Click **"New Chat"**.
@@ -107,7 +107,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
    
    <img src="jumpstart_images/image-6_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
 <div class="nav-link"><a href="#top">↑ Back to Top</a></div>
 
@@ -126,16 +126,16 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
    <br>
 
    <img src="jumpstart_images/image-7_bordered.png" width="80%" />
-   
-   <br>
+
+<br><br>
 
 3. **Check the Sources:** When the answer generates, notice that the response includes hyperlinked reference citations. Click on these citations to view the exact public websites used as answer sources.
    
    <br>
 
    <img src="jumpstart_images/image-8_bordered.png" width="80%" />
-   
-   <br>
+
+<br><br>
 
 4. **Follow-Up Questions:**
    * Highlight a specific sentence or section of the generated text.
@@ -147,8 +147,8 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
    <br>
 
    <img src="jumpstart_images/image-9_bordered.png" width="80%" />
-   
-   <br>
+
+<br><br>
 
 5. **File Analysis:**
    * You can analyze images, videos, or code directly. <br>
@@ -162,7 +162,7 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
 
    <img src="jumpstart_images/image-10_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
 6. **Download Tabular Data:**
    * Start a new chat.
@@ -175,7 +175,7 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
 
    <img src="jumpstart_images/image-11_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
 7. **Graph/Chart Generation:**
    * You can generate a graph/chart from data.<br>
@@ -190,8 +190,7 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
 
    <img src="jumpstart_images/image-12_bordered.png" width="80%" />
 
-   <br>
-
+<br><br>
 
 <div class="nav-link"><a href="#top">↑ Back to Top</a></div>
 
@@ -210,8 +209,7 @@ Personalization allows Gemini Enterprise to tailor its responses based on a ~30-
    
    <img src="jumpstart_images/image-13_bordered.png" width="80%" />
 
-   <br>
-
+<br><br>
 
 2. **Edit your Profile:**
    * In the Profile section, enter the following details to give the assistant explicit context about you:
@@ -223,7 +221,7 @@ Personalization allows Gemini Enterprise to tailor its responses based on a ~30-
 
    <img src="jumpstart_images/image-14_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
 3. **Enable Memory & History:**
    * Ensure the following toggles are turned on to help the assistant learn from past interactions:
@@ -234,7 +232,7 @@ Personalization allows Gemini Enterprise to tailor its responses based on a ~30-
 
    <img src="jumpstart_images/image-15_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
 4. **Appearance:**
    * Still under Settings, click on **Appearance**.
@@ -245,7 +243,7 @@ Personalization allows Gemini Enterprise to tailor its responses based on a ~30-
 
    <img src="jumpstart_images/image-16_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
 <div class="nav-link"><a href="#top">↑ Back to Top</a></div>
 
@@ -267,15 +265,15 @@ Gemini Enterprise allows you to securely query your connected enterprise data an
 
    <img src="jumpstart_images/image-17_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
 4. Review the answer, which is synthesized directly from your internal company files. 
    
    <br>
 
    <img src="jumpstart_images/image-18_bordered.png" width="80%" />
-   
-   <br>
+
+<br><br>
 
 5. Click the **New chat** button on the top left corner to start a new chat.
 
@@ -289,7 +287,7 @@ Gemini Enterprise allows you to securely query your connected enterprise data an
 
    <img src="jumpstart_images/image-19_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
 <div class="nav-link"><a href="#top">↑ Back to Top</a></div>
 
@@ -315,7 +313,7 @@ You can seamlessly bring external context, files, people, or specific AI agents 
 
    <img src="jumpstart_images/image-20_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
 4. **Submit the Question:**
    * Click submit.
@@ -348,7 +346,7 @@ This agent continuously generates ideas on a topic, runs a multi-angle evaluatio
 
    <img src="jumpstart_images/image-21_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
 4. Click into the newly-created tournament details. *(Note: The full tournament evaluation process will take several hours to complete. Once your session is submitted and running, you can move on to the next task and come back afterwards to check the results.)*
 
@@ -369,7 +367,7 @@ The Deep Research agent provides in-depth, multi-page reports grounded in thorou
 
    <img src="jumpstart_images/image-22_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
 2. Paste the following prompt: `Compare the effectiveness of different marketing strategies for reaching Gen Z consumers.`
 
@@ -382,7 +380,7 @@ The Deep Research agent provides in-depth, multi-page reports grounded in thorou
 
    <img src="jumpstart_images/image-23_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
 4. Wait a few minutes as Gemini Enterprise searches hundreds of sources, generates new questions, and refines its plan along the way. <br>
 
@@ -397,7 +395,7 @@ The Deep Research agent provides in-depth, multi-page reports grounded in thorou
 
    <img src="jumpstart_images/image-24_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
 <div class="nav-link"><a href="#top">↑ Back to Top</a></div>
 
@@ -419,7 +417,7 @@ Gemini Enterprise allows you to generate images and videos using Google’s stat
 
    <img src="jumpstart_images/image-25_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
 3. Once the response is generated, click the option to copy or download the image.
    
@@ -427,7 +425,7 @@ Gemini Enterprise allows you to generate images and videos using Google’s stat
 
    <img src="jumpstart_images/image-26_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
 4. **Access Video Generator:**
    * Click the **New chat** button.
@@ -441,7 +439,7 @@ Gemini Enterprise allows you to generate images and videos using Google’s stat
 
    <img src="jumpstart_images/image-27_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
 <div class="nav-link"><a href="#top">↑ Back to Top</a></div>
 
@@ -476,8 +474,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
 
    <img src="jumpstart_images/image-28_bordered.png" width="80%" />
 
-   <br>
-
+<br><br>
 
 3. Click **Create a new Notebook**.
    
@@ -485,8 +482,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
 
    <img src="jumpstart_images/image-29_bordered.png" width="80%" />
 
-   <br>
-
+<br><br>
 
 4. **Import Content:**
    * Download the following sample documents to your local machine:
@@ -498,7 +494,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
 
    <img src="jumpstart_images/image-30_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
 5. In the chat interface (bottom middle), type: `Summarize the key requirements, evaluation criteria, and deadlines outlined in the RFP`.
 
@@ -508,7 +504,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
 
    <img src="jumpstart_images/image-31_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
 7. Ask a follow up question: `Are there any gaps we cant cover based on the rfp requirements?`
 
@@ -519,8 +515,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
 
    <img src="jumpstart_images/image-32_bordered.png" width="80%" />
 
-   <br>
-
+<br><br>
 
 9. **Customize Audio Overview:**
    * Locate the **Audio Overview** feature.
@@ -532,18 +527,18 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
 
    <img src="jumpstart_images/image-34_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
-   * **Generate Audio:**
+* **Generate Audio:**
      * **Type**: `Focus on why Acme's solutions and products for this RFP`.
      * Choose **Default length**.
      * Click **Generate** to create a dynamic, podcast-style audio discussion.
    
    <img src="jumpstart_images/image-33_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
-   *(Note: The full audio generation may take several minutes to complete. Once your audio generation is submitted and running, you can move on to the next task and come back afterwards to check the results.)*
+*(Note: The full audio generation may take several minutes to complete. Once your audio generation is submitted and running, you can move on to the next task and come back afterwards to check the results.)*
 
 
 10. **Customize Video Overview:**
@@ -556,17 +551,17 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
 
    <img src="jumpstart_images/image-35_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
-   * **Generate Video:**
+* **Generate Video:**
      * **Type**: `Focus on why Acme's solutions and products for this RFP`.
      * Click **Generate** to create a video discussion.
    
    <img src="jumpstart_images/image-36_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
-   *(Note: The full video generation may take several minutes to complete. Once your video generation is submitted and running, you can move on to the next task and come back afterwards to check the results.)*
+*(Note: The full video generation may take several minutes to complete. Once your video generation is submitted and running, you can move on to the next task and come back afterwards to check the results.)*
 
 
 11. **Generate FAQ Report:**
@@ -578,7 +573,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
 
    <img src="jumpstart_images/image-37_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
 12. **Saving a New Note:**
     * In the **Chat area**, type: `What criteria will DreamWeave use for evaluation?`
@@ -590,11 +585,11 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
 
    <img src="jumpstart_images/image-38_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
-   <img src="jumpstart_images/image-39_bordered.png" width="80%" />
+<img src="jumpstart_images/image-39_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
 13. **Experiment with Your Data and Prompts**: Don’t hesitate to experiment with different ways of interacting with NotebookLM. Whether you're asking for summaries, brainstorming ideas, or generating new content, varying your prompts can unlock creative insights you may not have   anticipated. For instance, instead of just asking for an overview, try prompting NotebookLM to compare two different policies or identify emerging trends. The tool’s flexibility means there’s always room for discovery. 
 
@@ -623,7 +618,7 @@ With Agent Designer enabled, you can rapidly build custom agents starting with j
    
    <img src="jumpstart_images/image-40_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
 3. At the bottom of the Agent Designer page, you'll see a prompt input. Enter: 
    `Use google search capabilities to prepare a daily briefing of news from the past 48 hours on the topics provided. The brief should be presented in a bulleted list with key phrases bolded.`
@@ -632,7 +627,7 @@ With Agent Designer enabled, you can rapidly build custom agents starting with j
 
    <img src="jumpstart_images/image-41_bordered.png" width="80%" />
 
-   <br>
+<br><br>
 
 4. **Submit the Prompt:**
    * Click submit.
@@ -645,11 +640,15 @@ With Agent Designer enabled, you can rapidly build custom agents starting with j
    
    <img src="jumpstart_images/image-42_bordered.png" width="80%" />
 
+<br><br>
+
 6. Click **Schedule** at the top of the agent draft panel to automate your daily briefing.
 
 7. Click **+ Add schedule**. 
 
    <img src="jumpstart_images/image-43_bordered.png" width="80%" />
+
+<br><br>
 
 8. Keep the frequency set to **Daily** with the default time and timezone. For the **triggering prompt**, enter:
 
@@ -661,13 +660,15 @@ With Agent Designer enabled, you can rapidly build custom agents starting with j
    
    <img src="jumpstart_images/image-44_bordered.png" width="80%" />
 
+<br><br>
+
 9. Click **Add schedule** at the bottom to confirm.
 
 10. Click the **play icon (Run in Preview)** to run the agent with the scheduled prompt immediately. 
 
 <img src="jumpstart_images/image-45_bordered.png" width="80%" />
 
-<br>
+<br><br>
 
 You'll see a result in the agent draft's Preview tab.
 
@@ -682,6 +683,8 @@ You'll see a result in the agent draft's Preview tab.
    <br>
 
    <img src="jumpstart_images/image-46_bordered.png" width="80%" />
+
+<br><br>
 
 <div class="nav-link"><a href="#top">↑ Back to Top</a></div>
 
@@ -705,6 +708,8 @@ Take more control of the agent-building process by using the manual Builder inte
    
    <img src="jumpstart_images/image-47_bordered.png" width="80%" />
 
+<br><br>
+
 6. For the **Description**, enter:
    `Agent to help with next steps after sales calls.`
 
@@ -717,6 +722,8 @@ Take more control of the agent-building process by using the manual Builder inte
    * Click the **plus icon** to add a subagent.
    
    <img src="jumpstart_images/image-48_bordered.png" width="80%" />
+
+<br><br>
 
 9. Update the subagent's **Name** to `Followup Questions`.
 
@@ -738,6 +745,8 @@ Take more control of the agent-building process by using the manual Builder inte
     
     <img src="jumpstart_images/image-49_bordered.png" width="80%" />
 
+<br><br>
+
 14. In the left-hand navigation, click the **Agents** section header. You will now see your *Sales Call Followup Agent* listed under *Your agents*.
 
 15. **Pin the Agent:**
@@ -746,6 +755,8 @@ Take more control of the agent-building process by using the manual Builder inte
     * Notice the agent now appears on the left side navigation, under the **Agents** section.
     
     <img src="jumpstart_images/image-50_bordered.png" width="80%" />
+
+<br><br>
 
 </div>
 <div class="nav-link"><a href="#top">↑ Back to Top</a></div>
