@@ -71,6 +71,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
    <img src="jumpstart_images/prompt-chips_bordered.png" width="80%" />
    
    <br>
+   
    * Click **"Go off-script"**.
    * Choose **"Plan a fun virtual happy hour for my team."**.
    * Submit the first query by clicking the **paper airplane icon**. 
