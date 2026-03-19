@@ -113,6 +113,31 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
 
 <br><br>
 
+5. **Share a conversation:**
+   * To share your current conversation, click the **share** icon.
+   * To share a previous conversation:
+     * In the sidebar under **Chats**, hover over the chat you want to share.
+     * Click the **more_vert** (three dots) icon.
+     * Click **Share**, then **Create link**. A link to the conversation is automatically copied to your clipboard.
+   
+   <br>
+   
+   <img src="jumpstart_images/share-conversation_bordered.png" width="80%" />
+
+<br><br>
+
+6. **View and manage your shared conversations:**
+   * Navigate to your Gemini Enterprise app.
+   * Click the **settings** (gear) icon in the bottom left.
+   * Click **Shared chats**.
+   * Here you can view details or delete any previously shared conversations.
+   
+   <br>
+   
+   <img src="jumpstart_images/shared-conversations_bordered.png" width="80%" />
+
+<br><br>
+
 <div class="nav-link"><a href="#top">↑ Back to Top</a></div>
 
 ---
