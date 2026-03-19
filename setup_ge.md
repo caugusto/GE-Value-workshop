@@ -21,7 +21,7 @@ Before using the [Jumpstart](https://github.com/caugusto/GE-Value-workshop/blob/
 
 ### 🗂️ Task 1: Prepare Data for Gemini Enterprise, NotebookLM, and Calendar
 
-In this task, you will acquire sample documents and organize them in your Drive and Calendar for use with the AI assistant tools.
+In this task, you will acquire sample documents and upload them to Cloud Storage for use with the AI assistant tools.
 
 1. **Download Sample Data**:
    - Download the sample data ZIP: [ge_sample_data_for_workshop.zip](https://github.com/caugusto/GE-Value-workshop/blob/main/data/ge_sample_data_for_workshop.zip)
@@ -30,14 +30,10 @@ In this task, you will acquire sample documents and organize them in your Drive 
 2. **Upload to Cloud Storage**:
    - Open the **Google Cloud Console**.
    - From the Navigation menu (☰), select **Cloud Storage > Buckets**.
-   - Click on the pre-provisioned bucket name (matches your **Project ID**).
+   - **Create a new bucket**: Click **Create** at the top. Choose a globally unique name (e.g., `your-project-id-data`). Keep default settings and click **Create**.
    - Upload the extracted folder structure directly into this bucket.
 
-3. **Organize Content & Calendar**:
-   - **Google Drive**: Organize these files into distinct folders inside your Drive:
-     - One folder for general Gemini Enterprise queries and Agents.
-     - A text-focused folder for anchored analysis in NotebookLM.
-   - **Google Calendar**: Add a sample meeting to your schedule to enhance full-stack interaction testing.
+
 
 ---
 

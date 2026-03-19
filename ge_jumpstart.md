@@ -39,7 +39,7 @@ In this session, you will explore the core day-one capabilities of the platform.
 
 <br>
 
-<img src="jumpstart_images/image.png" width="90%" />
+<img src="jumpstart_images/image.png" width="90%" style="border: 1px solid black;" />
 
 <br>
 
@@ -62,7 +62,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
    * Choose **"Plan a fun virtual happy hour for my team."**.
    * Submit the first query by clicking the **paper airplane icon**. 
 
-<img src="jumpstart_images/image-2.png" width="90%" />
+<img src="jumpstart_images/image-2.png" width="90%" style="border: 1px solid black;" />
 
 
 2. **Conversation History:**
@@ -72,9 +72,9 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
      * **Click** the Star icon on the top right of any conversation.
    <br>
 
-   <img src="jumpstart_images/image-3.png" width="90%" />
+   <img src="jumpstart_images/image-3.png" width="90%" style="border: 1px solid black;" />
 
-   <br>
+   <br><br>
 
    * You can also use the search icon here to find specific past conversations:
      * **Click** the Search icon on the left navigation.
@@ -83,7 +83,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
    
    <br>
 
-   <img src="jumpstart_images/image-4.png" width="90%" />
+   <img src="jumpstart_images/image-4.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -91,7 +91,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
 
    <br>
    
-   <img src="jumpstart_images/image-5.png" width="90%" />
+   <img src="jumpstart_images/image-5.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -105,7 +105,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
 
    <br>
    
-   <img src="jumpstart_images/image-6.png" width="90%" />
+   <img src="jumpstart_images/image-6.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -125,7 +125,7 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
 
    <br>
 
-   <img src="jumpstart_images/image-7.png" width="90%" />
+   <img src="jumpstart_images/image-7.png" width="90%" style="border: 1px solid black;" />
    
    <br>
 
@@ -133,7 +133,7 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
    
    <br>
 
-   <img src="jumpstart_images/image-8.png" width="90%" />
+   <img src="jumpstart_images/image-8.png" width="90%" style="border: 1px solid black;" />
    
    <br>
 
@@ -146,7 +146,7 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
 
    <br>
 
-   <img src="jumpstart_images/image-9.png" width="90%" />
+   <img src="jumpstart_images/image-9.png" width="90%" style="border: 1px solid black;" />
    
    <br>
 
@@ -160,7 +160,7 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
    
    <br>
 
-   <img src="jumpstart_images/image-10.png" width="90%" />
+   <img src="jumpstart_images/image-10.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -173,7 +173,7 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
    
    <br>
 
-   <img src="jumpstart_images/image-11.png" width="90%" />
+   <img src="jumpstart_images/image-11.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -187,7 +187,7 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
    
    <br>
 
-   <img src="jumpstart_images/image-12.png" width="90%" />
+   <img src="jumpstart_images/image-12.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -207,7 +207,7 @@ Personalization allows Gemini Enterprise to tailor its responses based on a ~30-
    * Click on **Personalization**.
    <br>
    
-   <img src="jumpstart_images/image-13.png" width="90%" />
+   <img src="jumpstart_images/image-13.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -220,7 +220,7 @@ Personalization allows Gemini Enterprise to tailor its responses based on a ~30-
 
    <br>
 
-   <img src="jumpstart_images/image-14.png" width="90%" />
+   <img src="jumpstart_images/image-14.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -231,7 +231,7 @@ Personalization allows Gemini Enterprise to tailor its responses based on a ~30-
 
    <br>
 
-   <img src="jumpstart_images/image-15.png" width="90%" />
+   <img src="jumpstart_images/image-15.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -242,7 +242,7 @@ Personalization allows Gemini Enterprise to tailor its responses based on a ~30-
 
    <br>
 
-   <img src="jumpstart_images/image-16.png" width="90%" />
+   <img src="jumpstart_images/image-16.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -264,7 +264,7 @@ Gemini Enterprise allows you to securely query your connected enterprise data an
 
    <br>
 
-   <img src="jumpstart_images/image-17.png" width="90%" />
+   <img src="jumpstart_images/image-17.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -272,7 +272,7 @@ Gemini Enterprise allows you to securely query your connected enterprise data an
    
    <br>
 
-   <img src="jumpstart_images/image-18.png" width="90%" />
+   <img src="jumpstart_images/image-18.png" width="90%" style="border: 1px solid black;" />
    
    <br>
 
@@ -286,7 +286,7 @@ Gemini Enterprise allows you to securely query your connected enterprise data an
    
    <br>
 
-   <img src="jumpstart_images/image-19.png" width="90%" />
+   <img src="jumpstart_images/image-19.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -312,7 +312,7 @@ You can seamlessly bring external context, files, people, or specific AI agents 
    
    <br>
 
-   <img src="jumpstart_images/image-20.png" width="90%" />
+   <img src="jumpstart_images/image-20.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -345,7 +345,7 @@ This agent continuously generates ideas on a topic, runs a multi-angle evaluatio
    
    <br>
 
-   <img src="jumpstart_images/image-21.png" width="90%" />
+   <img src="jumpstart_images/image-21.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -366,7 +366,7 @@ The Deep Research agent provides in-depth, multi-page reports grounded in thorou
    
    <br>
 
-   <img src="jumpstart_images/image-22.png" width="90%" />
+   <img src="jumpstart_images/image-22.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -379,7 +379,7 @@ The Deep Research agent provides in-depth, multi-page reports grounded in thorou
    
    <br>
 
-   <img src="jumpstart_images/image-23.png" width="90%" />
+   <img src="jumpstart_images/image-23.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -394,7 +394,7 @@ The Deep Research agent provides in-depth, multi-page reports grounded in thorou
    
    <br>
 
-   <img src="jumpstart_images/image-24.png" width="90%" />
+   <img src="jumpstart_images/image-24.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -416,7 +416,7 @@ Gemini Enterprise allows you to generate images and videos using Google’s stat
 
    <br>
 
-   <img src="jumpstart_images/image-25.png" width="90%" />
+   <img src="jumpstart_images/image-25.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -424,7 +424,7 @@ Gemini Enterprise allows you to generate images and videos using Google’s stat
    
    <br>
 
-   <img src="jumpstart_images/image-26.png" width="90%" />
+   <img src="jumpstart_images/image-26.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -438,7 +438,7 @@ Gemini Enterprise allows you to generate images and videos using Google’s stat
    
    <br>
 
-   <img src="jumpstart_images/image-27.png" width="90%" />
+   <img src="jumpstart_images/image-27.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -473,7 +473,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
    
    <br>
 
-   <img src="jumpstart_images/image-28.png" width="90%" />
+   <img src="jumpstart_images/image-28.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -482,7 +482,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
    
    <br>
 
-   <img src="jumpstart_images/image-29.png" width="90%" />
+   <img src="jumpstart_images/image-29.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -495,7 +495,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
    
    <br>
 
-   <img src="jumpstart_images/image-30.png" width="90%" />
+   <img src="jumpstart_images/image-30.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -505,7 +505,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
    
    <br>
 
-   <img src="jumpstart_images/image-31.png" width="90%" />
+   <img src="jumpstart_images/image-31.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -516,7 +516,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
    
    <br>
 
-   <img src="jumpstart_images/image-32.png" width="90%" />
+   <img src="jumpstart_images/image-32.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -529,7 +529,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
 
    <br>
 
-   <img src="jumpstart_images/image-34.png" width="90%" />
+   <img src="jumpstart_images/image-34.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -538,7 +538,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
      * Choose **Default length**.
      * Click **Generate** to create a dynamic, podcast-style audio discussion.
    
-   <img src="jumpstart_images/image-33.png" width="90%" />
+   <img src="jumpstart_images/image-33.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -553,7 +553,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
 
    <br>
 
-   <img src="jumpstart_images/image-35.png" width="90%" />
+   <img src="jumpstart_images/image-35.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -561,7 +561,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
      * **Type**: `Focus on why Acme's solutions and products for this RFP`.
      * Click **Generate** to create a video discussion.
    
-   <img src="jumpstart_images/image-36.png" width="90%" />
+   <img src="jumpstart_images/image-36.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -575,7 +575,7 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
 
    <br>
 
-   <img src="jumpstart_images/image-37.png" width="90%" />
+   <img src="jumpstart_images/image-37.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -587,11 +587,11 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
 
    <br>
 
-   <img src="jumpstart_images/image-38.png" width="90%" />
+   <img src="jumpstart_images/image-38.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
-   <img src="jumpstart_images/image-39.png" width="90%" />
+   <img src="jumpstart_images/image-39.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -620,7 +620,7 @@ With Agent Designer enabled, you can rapidly build custom agents starting with j
 
    <br>
    
-   <img src="jumpstart_images/image-40.png" width="90%" />
+   <img src="jumpstart_images/image-40.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -629,7 +629,7 @@ With Agent Designer enabled, you can rapidly build custom agents starting with j
 
    <br>
 
-   <img src="jumpstart_images/image-41.png" width="90%" />
+   <img src="jumpstart_images/image-41.png" width="90%" style="border: 1px solid black;" />
 
    <br>
 
@@ -642,13 +642,13 @@ With Agent Designer enabled, you can rapidly build custom agents starting with j
    * At the top of the agent's preview card, explore **Flow**, **Schedule**, and **Preview**.
    * Click **Flow** to see the auto-created Builder view.
    
-   <img src="jumpstart_images/image-42.png" width="90%" />
+   <img src="jumpstart_images/image-42.png" width="90%" style="border: 1px solid black;" />
 
 6. Click **Schedule** at the top of the agent draft panel to automate your daily briefing.
 
 7. Click **+ Add schedule**. 
 
-   <img src="jumpstart_images/image-43.png" width="90%" />
+   <img src="jumpstart_images/image-43.png" width="90%" style="border: 1px solid black;" />
 
 8. Keep the frequency set to **Daily** with the default time and timezone. For the **triggering prompt**, enter:
 
@@ -658,13 +658,13 @@ With Agent Designer enabled, you can rapidly build custom agents starting with j
        - Landscape lighting
        - Sales on large planters
    
-   <img src="jumpstart_images/image-44.png" width="90%" />
+   <img src="jumpstart_images/image-44.png" width="90%" style="border: 1px solid black;" />
 
 9. Click **Add schedule** at the bottom to confirm.
 
 10. Click the **play icon (Run in Preview)** to run the agent with the scheduled prompt immediately. 
 
-<img src="jumpstart_images/image-45.png" width="90%" />
+<img src="jumpstart_images/image-45.png" width="90%" style="border: 1px solid black;" />
 
 <br>
 
@@ -680,7 +680,7 @@ You'll see a result in the agent draft's Preview tab.
 
    <br>
 
-   <img src="jumpstart_images/image-46.png" width="90%" />
+   <img src="jumpstart_images/image-46.png" width="90%" style="border: 1px solid black;" />
 
 <div class="nav-link"><a href="#top">↑ Back to Top</a></div>
 
@@ -702,7 +702,7 @@ Take more control of the agent-building process by using the manual Builder inte
 
 5. Next to the agent's Name field, click on the upload icon labeled **Icon**. [Download a Sample Robot Icon here](https://github.com/caugusto/GE-Value-workshop/raw/main/data/ge_sample_data_for_workshop/robot_icon.jpg).
    
-   <img src="jumpstart_images/image-47.png" width="90%" />
+   <img src="jumpstart_images/image-47.png" width="90%" style="border: 1px solid black;" />
 
 6. For the **Description**, enter:
    `Agent to help with next steps after sales calls.`
@@ -715,7 +715,7 @@ Take more control of the agent-building process by using the manual Builder inte
    * Hover over the agent node.
    * Click the **plus icon** to add a subagent.
    
-   <img src="jumpstart_images/image-48.png" width="90%" />
+   <img src="jumpstart_images/image-48.png" width="90%" style="border: 1px solid black;" />
 
 9. Update the subagent's **Name** to `Followup Questions`.
 
@@ -735,7 +735,7 @@ Take more control of the agent-building process by using the manual Builder inte
         - needs a pond dug and 3 trees planted
         - wants lawn maintained twice per month
     
-    <img src="jumpstart_images/image-49.png" width="90%" />
+    <img src="jumpstart_images/image-49.png" width="90%" style="border: 1px solid black;" />
 
 14. In the left-hand navigation, click the **Agents** section header. You will now see your *Sales Call Followup Agent* listed under *Your agents*.
 
@@ -743,7 +743,7 @@ Take more control of the agent-building process by using the manual Builder inte
     * Click the **three dots** on the agent's card.
     * Select the **pin icon** for quick access from the navigation pane.
     
-    <img src="jumpstart_images/image-50.png" width="90%" />
+    <img src="jumpstart_images/image-50.png" width="90%" style="border: 1px solid black;" />
 
 </div>
 <div class="nav-link"><a href="#top">↑ Back to Top</a></div>
