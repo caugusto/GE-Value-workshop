@@ -154,7 +154,14 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
 
 <br><br>
 
-5. **File Analysis:**
+5. **Analyze Concepts and Research Methodologies:**
+   * In the chat box, enter a prompt such as the following:
+   * **Type**: `My objective is to understand [specific topic, e.g., the methodology behind clinical trials for cancer research]. Please use all available external data sources, including [list of data sources, e.g., PubMed, Google Scholar, National Library of Medicine], to summarize the key statistical methods used to analyze data in each phase.`
+   * **Submit** the query.
+
+   <br><br>
+
+6. **File Analysis:**
    * You can analyze images, videos, or code directly. <br>
    * Download the [Microservices Architecture PDF](https://github.com/caugusto/GE-Value-workshop/raw/main/data/ge_sample_data_for_workshop/microservices.pdf) and save it locally. <br>
    * **Upload the file**:
@@ -168,7 +175,7 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
 
 <br><br>
 
-6. **Download Tabular Data:**
+7. **Download Tabular Data:**
    * Start a new chat.
    * **Type**: `Create a table comparing the 5 largest countries in the world.` <br>
    * Once the table is generated, look at the bottom right of the table:
@@ -181,7 +188,7 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
 
 <br><br>
 
-7. **Graph/Chart Generation:**
+8. **Graph/Chart Generation:**
    * You can generate a graph/chart from data.<br>
    * Download the [Sales Performance txt file](https://github.com/caugusto/GE-Value-workshop/raw/main/data/ge_sample_data_for_workshop/sales_performance.txt) and save it locally using **.csv** extension. <br>
    * **Start a new chat.** <br>
