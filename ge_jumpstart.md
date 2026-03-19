@@ -163,7 +163,16 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
 
    <br><br>
 
-6. **File Analysis:**
+6. **Brainstorm New Content:**
+   * You can use Gemini Enterprise to get started with writing a new blog post, email, or social media update.
+   * Start a **New Chat**.
+   * In the chat box, enter a prompt such as the following:
+   * **Type**: `Give me a [number]-point outline for a [content type, e.g., blog post, email newsletter] about [topic]. The target audience is [target audience], so please ensure that the outline addresses their main interests and pain points.`
+   * **Submit** the query.
+
+   <br><br>
+
+7. **File Analysis:**
    * You can analyze images, videos, or code directly. <br>
    * Download the [Microservices Architecture PDF](https://github.com/caugusto/GE-Value-workshop/raw/main/data/ge_sample_data_for_workshop/microservices.pdf) and save it locally. <br>
    * **Upload the file**:
@@ -177,7 +186,7 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
 
 <br><br>
 
-7. **Download Tabular Data:**
+8. **Download Tabular Data:**
    * Start a new chat.
    * **Type**: `Create a table comparing the 5 largest countries in the world.` <br>
    * Once the table is generated, look at the bottom right of the table:
@@ -190,7 +199,7 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
 
 <br><br>
 
-8. **Graph/Chart Generation:**
+9. **Graph/Chart Generation:**
    * You can generate a graph/chart from data.<br>
    * Download the [Sales Performance txt file](https://github.com/caugusto/GE-Value-workshop/raw/main/data/ge_sample_data_for_workshop/sales_performance.txt) and save it locally using **.csv** extension. <br>
    * **Start a new chat.** <br>
