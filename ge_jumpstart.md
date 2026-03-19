@@ -18,8 +18,7 @@
   <li><a href="#section-13">12: Review Submitted Tasks</a></li>
 </ul>
 </div>
-
-<br><br><br><br>
+<br><br>
 
 <div style="font-size: 1.2em;">
 
