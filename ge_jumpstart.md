@@ -742,6 +742,7 @@ Take more control of the agent-building process by using the manual Builder inte
 15. **Pin the Agent:**
     * Click the **three dots** on the agent's card.
     * Select the **pin icon** for quick access from the navigation pane.
+    * Notice the agent now appears on the left side navigation, under the **Agents** section.
     
     <img src="jumpstart_images/image-50_bordered.png" width="80%" />
 
