@@ -53,7 +53,7 @@ Create **Data Stores** to bridge Gemini Enterprise with your data infrastructure
    - **Data Type**: Select **Documents** (found under *Unstructured Data Import*).
    - **Synchronization Frequency**: Select **One time**.
 6. **Select Source Location**:
-   - Click **Browse** and navigate to the `gemini-enterprise-cloud-storage` folder within your GCP bucket.
+   - Click **Browse** and navigate to the `ge_sample_data_for_workshop` folder within your GCP bucket.
    - Click **Continue**.
 7. **Finalize Setup**:
    - **Region**: Keep default (`global`).
