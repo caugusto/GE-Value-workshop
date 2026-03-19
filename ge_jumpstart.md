@@ -178,7 +178,7 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
 
 7. **Graph/Chart Generation:**
    * You can generate a graph/chart from data.<br>
-   * Download the [Sales Performance CSV file](https://github.com/caugusto/GE-Value-workshop/raw/main/data/ge_sample_data_for_workshop/sales_performance.csv) and save it locally using **.csv** extension. <br>
+   * Download the [Sales Performance txt file](https://github.com/caugusto/GE-Value-workshop/raw/main/data/ge_sample_data_for_workshop/sales_performance.txt) and save it locally using **.txt** extension. <br>
    * **Upload the file**:
      * Drag and drop it directly into the Omnibar, OR
      * Click the **+ icon** to upload. <br>
