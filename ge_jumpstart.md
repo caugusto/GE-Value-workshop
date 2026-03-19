@@ -746,6 +746,7 @@ You have completed the **Gemini Enterprise Hands-on Lab**.
 - **Familiarized** yourself with the basic Assistant features.
 - **Leveraged** Search and File Analysis to interact with web and internal data.
 - **Personalized** your experience to streamline workflow.
+- **Explored NotebookLM** to anchor AI insights strictly to your trusted documents and generate multi-modal summaries.
 - **Discovered and Created custom agents** to solve common workflow problems in just a few steps.
 
 You are now ready to apply these items to increase your daily productivity.
