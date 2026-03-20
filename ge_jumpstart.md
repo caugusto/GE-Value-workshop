@@ -658,13 +658,6 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
 
 <br><br>
 
-13. **Experiment with Your Data and Prompts**: Don’t hesitate to experiment with different ways of interacting with NotebookLM. Whether you're asking for summaries, brainstorming ideas, or generating new content, varying your prompts can unlock creative insights you may not have   anticipated. For instance, instead of just asking for an overview, try prompting NotebookLM to compare two different policies or identify emerging trends. The tool’s flexibility means there’s always room for discovery. 
-
-   Here are some prompt ideas for you to try:
-   - Explain this document in the form of a short story.
-   - Compare and contrast Document 1 with Document 2.
-   - Give me a pro/cons list for the solutions proposed in this document.
-   - Format a proposal for X based on the information in these documents.
 
 
 <div class="nav-link"><a href="#top">↑ Back to Top</a></div>
