@@ -16,6 +16,7 @@
   <li><a href="#section-11">10: Build an Agent from a Prompt with Agent Designer</a></li>
   <li><a href="#section-12">11: Build an Agent with the Agent Designer Builder</a></li>
   <li><a href="#section-13">12: Review Submitted Tasks</a></li>
+  <li><a href="#section-14">13: NotebookLM Challenge Labs</a></li>
 </ul>
 </div>
 <br><br>
@@ -830,6 +831,79 @@ Take more control of the agent-building process by using the manual Builder inte
 - Check Previously Submitted Deep Research Task
 - Check NotebookLM Audio and Video Generation
 - Check Idea Generation Tournment Progress (should still be running)
+
+<br>
+
+<div class="nav-link"><a href="#top">↑ Back to Top</a></div>
+
+---
+
+<div id='section-14'></div>
+
+# Task 13: NotebookLM Challenge Labs
+
+Welcome to the NotebookLM Challenge Labs! These exercises are designed to test your ability to synthesize information, extract insights, and generate multi-modal outputs using NotebookLM. 
+
+**Instructions:** Please select **one** of the three challenges below to complete. You will be given a scenario and a set of objectives. It is up to you to determine the best prompts and tools within NotebookLM to accomplish the goals.
+
+## Challenge Lab 1: Financial Analyst Briefing (Market Research)
+
+**Scenario:** 
+You are a financial analyst at a top investment firm. Earnings season is in full swing, and you need to quickly digest Alphabet's (Google's) Q4 2025 earnings call and their official press release to prepare a briefing for your portfolio manager. Your portfolio manager wants a high-level overview, a breakdown of risks, and an audio summary they can listen to on their commute.
+
+**Data Sources Needed:**
+1. **YouTube Video:** Alphabet Q4 2025 Earnings Call (Use this link: `https://www.youtube.com/watch?v=mIK5-yi7a-c`)
+2. **Document:** Alphabet Q4 2025 Earnings Press Release (Use this link: `https://s206.q4cdn.com/479360582/files/doc_financials/2025/q4/2025q4-alphabet-earnings-release.pdf`)
+3. **Website:** Google's History (Use this link: `https://about.google/company-info/our-story/`)
+4. **Discover Sources:** Use the NotebookLM "Discover sources" feature to find and insert an article on "Recent trends in Artificial Intelligence capital expenditures".
+
+**Your Challenge Objectives:**
+1. **Workspace Setup:** Create a new notebook and ingest the YouTube video link, the PDF press release, the "Our Story" web link, and your newly discovered article on AI capex trends.
+2. **Company Timeline:** Using the "Our Story" link, create a chronological timeline of major milestones in Google's history. Save this to a note.
+3. **Revenue Drivers:** Extract a summary of the top 3 revenue-driving products or services mentioned across both earnings sources. Save this insight as a saved note.
+4. **Risk Identification:** Identify the biggest risks, headwinds, or challenges the executives discussed on the call. Pin this response.
+5. **Q&A Extraction:** Extract and list all questions asked by analysts during the earnings call, along with a summary of the executives' answers. Save this to a note.
+6. **Commuter Briefing (Audio):** Generate an "Audio Overview" podcast discussing the company's AI investments and capital expenditures specifically, ignoring other segments.
+
+---
+
+## Challenge Lab 2: GTM Strategy & Cross-Department Synthesis (Marketing)
+
+**Scenario:** 
+You are a Go-To-Market (GTM) Strategy Analyst at XYZ Sales Company. Your Director has provided you with raw text files containing marketing campaign data, sales performance metrics, and direct customer feedback from the last quarter. Your task is to use NotebookLM to find correlations between marketing efforts, sales results, and customer sentiment to recommend actions for the next quarter.
+
+**Data Sources Needed:**
+*(These files are located in your `data/ge_sample_data_for_workshop/xyz-sales-company/notebooklm` directory)*
+1. `MARKETING_data.txt`
+2. `SALES_data.txt`
+3. `customer_feedback.txt`
+4. **Discover Sources:** Use the NotebookLM "Discover sources" feature to find a guide on "Best practices for interpreting customer feedback and B2B sales data".
+
+**Your Challenge Objectives:**
+1. **Workspace Setup:** Create a new notebook named "XYZ GTM Strategy", upload all three text files, and add the discovered best practices guide.
+2. **Cross-Department Synthesis:** Identify three specific areas where marketing campaigns directly influenced (or failed to influence) sales results according to the data. 
+3. **Sentiment Analysis:** Analyze the customer feedback document and summarize the top three most recurring themes. Determine if these themes align with any specific sales or marketing initiatives mentioned in the other documents.
+4. **Strategy Memo Generation:** Generate a concise "Next Quarter Strategy Memo" for the GTM Director. Based strictly on the combined data and feedback, recommend two specific, actionable steps the company should take. Save this as a final note for the Director.
+5. **Team Briefing (Video):** Generate a Video Overview to share with the broader GTM team that highlights the alignment (or misalignment) between your marketing efforts and customer happiness.
+
+---
+
+## Challenge Lab 3: Caffeine & Sleep Analysis (Medical Research)
+
+**Scenario:** 
+You are a health and wellness writer preparing an evidence-based article. You need to correlate clinical research on caffeine and sleep architecture with general knowledge about sleep hygiene to make a compelling, scientifically-backed case for your readers. Instead of using provided files, you will rely entirely on NotebookLM's ability to discover reputable sources for you.
+
+**Data Sources Needed:**
+1. **Medical Article (URL):** The Sleep Foundation's comprehensive guide on caffeine and sleep (Use this link: `https://www.sleepfoundation.org/nutrition/caffeine-and-sleep`).
+2. **Discover Sources (Medical Study):** Use the NotebookLM "Discover sources" feature to search for and insert a clinical or academic overview on "The physiological effects of caffeine on adenosine receptors and sleep cycles".
+3. **Discover Sources (Best Practices):** Use the NotebookLM "Discover sources" feature to search for and insert an article on "Evidence-based sleep hygiene tips for adults".
+
+**Your Challenge Objectives:**
+1. **Workspace Setup:** Create a new notebook named "Sleep Analysis" and use the Discover sources feature to populate it with at least two high-quality articles based on the topics above.
+2. **Data Correlation:** Ask NotebookLM to synthesize the sources and explain exactly *why* late-day caffeine intake leads to lower sleep scores, citing the biological mechanisms (e.g., adenosine receptors). Pin the response.
+3. **Wellness Plan:** Generate a personalized 3-point action plan for a hypothetical client who drinks coffee at 5 PM, based on the discovered medical recommendations. 
+4. **Study Summary Brief:** Generate a Briefing Doc highlighting the key takeaways from the clinical study you discovered.
+5. **Client Audio Overview:** Generate an "Audio Overview" podcast discussing the client's new wellness plan and how adenosine receptors work, so the client can listen to it on their commute.
 
 <br>
 
