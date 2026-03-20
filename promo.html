@@ -58,6 +58,26 @@
             flex-direction: column;
             justify-content: center;
         }
+        
+        .logo-container {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+        
+        .gemini-logo {
+            width: 48px;
+            height: 48px;
+            animation: pulse-glow 3s infinite ease-in-out;
+            filter: drop-shadow(0 0 8px rgba(129, 140, 248, 0.5));
+        }
+        
+        @keyframes pulse-glow {
+            0% { transform: scale(1); filter: drop-shadow(0 0 8px rgba(129, 140, 248, 0.5)); }
+            50% { transform: scale(1.05); filter: drop-shadow(0 0 16px rgba(129, 140, 248, 0.8)); }
+            100% { transform: scale(1); filter: drop-shadow(0 0 8px rgba(129, 140, 248, 0.5)); }
+        }
 
         .title-badge {
             display: inline-block;
@@ -246,7 +266,10 @@
     <div class="container">
         <!-- Left Side: Hero -->
         <div class="hero-section">
-            <div class="title-badge">Exclusive Hands-On Event</div>
+            <div class="logo-container">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="Google Gemini Logo" class="gemini-logo">
+                <div class="title-badge" style="margin-bottom: 0;">Exclusive Hands-On Event</div>
+            </div>
             <h1>Gemini Enterprise Jumpstart</h1>
             <p class="description">Join us for a comprehensive workshop designed to unlock Day 1 value. Discover how to accelerate workflows, synthesize information, and foster creative problem-solving with Google's most capable AI models.</p>
             <img src="/Users/caugusto/.gemini/jetski/brain/eb0d6b27-d4c5-4347-ba9d-e020a79aa531/workshop_hero_1774030721945.png" alt="Enterprise AI Hero Graphic" class="hero-image">
