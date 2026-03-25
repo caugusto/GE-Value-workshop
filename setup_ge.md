@@ -66,3 +66,16 @@ Create **Data Stores** to bridge Gemini Enterprise with your data infrastructure
 > [!NOTE]
 > For more information on adding a GCS data store, visit https://docs.cloud.google.com/gemini/enterprise/docs/connectors/connect-cloud-storage
 
+---
+
+### 🛡️ Note on Model Armor Configuration
+
+If **Model Armor** is enabled in your application configurations:
+
+- Leave the **Model Armor template for response outputs** blank, as indicated in the picture below:
+
+<img src="jumpstart_images/model_armor_blank_template.png" width="70%">
+
+- It is also recommended to set the Model Armor **confidence detection to High**, as shown in the second picture:
+
+<img src="jumpstart_images/model_armor_confidence_high.png" width="70%">
