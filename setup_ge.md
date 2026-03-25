@@ -1,6 +1,6 @@
 # 🛠️ Gemini Enterprise Setup Guide
 
-Last Modified: 3/19/2026
+Last Modified: 3/25/2026
 
 This guide outlines the prerequisites and steps required to set up your environment for the Gemini Enterprise Hands-on Lab.
 

@@ -25,7 +25,7 @@
 
 # Hands-on Lab: Unlocking Day 1 Value in Gemini Enterprise
 
-Last Modified: 3/19/2026
+Last Modified: 3/25/2026
 
 
 <div id='section-1'></div>
@@ -139,7 +139,7 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
 7. **Code Generation:**
    * Click **"New Chat"**.
    * Using the Omnibar, ask the assistant to generate a simple script. <br>
-   * Type: `Write a Python script to print the first 10 Fibonacci numbers.` <br>
+   * Type: `write a python script to create a basic calculator.` <br>
    * Notice that when the response generates, you can easily:
      * Click **Show code** to view the formatting.
      * Click the <img src="jumpstart_images/copy-icon.png" width="20px" style="vertical-align: middle; margin-top: -3px;" /> icon to export it to your clipboard.

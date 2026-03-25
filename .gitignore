@@ -10,3 +10,4 @@ venv/
 .env
 backup/
 site/
+venv_temp/
