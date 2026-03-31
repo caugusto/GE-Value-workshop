@@ -475,6 +475,8 @@ The Deep Research agent provides in-depth, multi-page reports grounded in thorou
 
 Gemini Enterprise allows you to generate images and videos using Google’s state-of-the-art models.
 
+### Part A: Generate Images from Text
+
 1. **Access Image Generator:**
    * Click the **New chat** button.
    * In the Omnibar, select the **Image generator** tool.
@@ -495,13 +497,41 @@ Gemini Enterprise allows you to generate images and videos using Google’s stat
 
 <br><br>
 
-4. **Access Video Generator:**
-   * Click the **New chat** button.
-   * In the Omnibar, select the **Generate videos with Veo** tool.
-   
-5. Paste the following prompt to test the model's cinematic capabilities: `A cinematic time-lapse of a bustling futuristic server room with glowing blue lights, sleek data racks, and a smooth camera pan.`
+### Part B: Multimodal Image Generation from PDF
 
-6. Once the response is generated, notice that the video is up to 8 seconds long and includes options to be downloaded for offline use.
+1. **Download Acme's RFP for Web Design Services:**
+   * Download the [Web Design RFP.pdf](https://github.com/caugusto/GE-Value-workshop/blob/main/data/ge_sample_data_for_workshop/acme-co/Web%20Design%20RFP.pdf) to your local machine.
+
+2. **Upload PDF to Gemini:**
+   * Start a **New chat**.
+   * Click the **+** (plus) icon in the prompt area and upload the PDF file.
+
+3. **Generate Infographic:**
+   * In the Omnibar, select the **Image generator** tool.
+   * Paste the following prompt: `create an infograph based on the rfp key dates`
+
+   <br>
+
+   <img src="jumpstart_images/image-51_bordered.png" width="80%" />
+
+<br><br>
+
+4. Once the response is generated, click on the generated image to expand it. Feel free to download or copy it as well.
+
+   <br>
+
+   <img src="jumpstart_images/image-52_bordered.png" width="80%" />
+
+<br><br>
+
+### Part C: Access Video Generator
+
+1. Click the **New chat** button.
+2. In the Omnibar, select the **Generate videos with Veo** tool.
+   
+3. Paste the following prompt to test the model's cinematic capabilities: `A cinematic time-lapse of a bustling futuristic server room with glowing blue lights, sleek data racks, and a smooth camera pan.`
+
+4. Once the response is generated, notice that the video is up to 8 seconds long and includes options to be downloaded for offline use.
    
    <br>
 
