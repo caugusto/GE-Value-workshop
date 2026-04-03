@@ -5,8 +5,8 @@
 <ul>
   <li><a href="#section-1">Welcome & Prerequisites</a></li>
   <li><a href="#section-2">1: Navigating the Interface & Basic Assistant Features</a></li>
-  <li><a href="#section-3">2: Web Search, File Analysis & Data Handling</a></li>
-  <li><a href="#section-4">3: Configuring Personalization and Appearance</a></li>
+  <li><a href="#section-4">2: Configuring Personalization and Appearance</a></li>
+  <li><a href="#section-3">3: Web Search, File Analysis & Data Handling</a></li>
   <li><a href="#section-5">4: Searching Internal Company Data</a></li>
   <li><a href="#section-6">5: Using @ Mentions and Calling Agents Directly</a></li>
   <li><a href="#section-7">6: Brainstorming with Idea Generation</a></li>
@@ -154,9 +154,64 @@ Let's start by getting familiar with the Gemini Enterprise interface and some of
 
 ---
 
+<div id='section-4'></div>
+
+# Task 2: Configuring Personalization and Appearance
+
+**Appearance**: You can customize the appearance of Gemini Enterprise in a variety of ways, including adjusting the theme (System, Light, Dark) and chat density (Comfortable, Compact).
+
+**Personalization**: As you use Gemini Enterprise, it builds a personal memory by understanding your individual needs and work patterns, leading to more relevant and context-aware assistance. You can explicitly define your role and industry, manage connected sources, and save specific memories. Personalization allows Gemini Enterprise to tailor its responses based on a ~30-day window of your activity, Google Workspace data (1P apps like Gmail, Calendar, Drive), and connected third-party (3P) apps.
+
+1. **Navigate to Settings:**
+   * Click **Settings & help** (gear icon at bottom left).
+   * Click on **Personalization**.
+   <br>
+   
+   <img src="jumpstart_images/image-13_bordered.png" width="80%" />
+
+<br><br>
+
+2. **Edit your Profile:**
+   * In the Profile section, enter the following details to give the assistant explicit context about you:
+     * **Preferred name**
+     * **Role or job title**
+     * **Industry**
+
+   <br>
+
+   <img src="jumpstart_images/image-14_bordered.png" width="80%" />
+
+<br><br>
+
+3. **Enable Memory & History:**
+   * Ensure the following toggles are turned on to help the assistant learn from past interactions:
+     * **Conversation history**
+     * **Reference saved memories**
+
+   <br>
+
+   <img src="jumpstart_images/image-15_bordered.png" width="80%" />
+
+<br><br>
+
+4. **Appearance:**
+   * Still under Settings, click on **Appearance**.
+   * Make sure **all** home page elements are checked.
+   * *Optional: Pick your theme (Light or Dark).*
+
+   <br>
+
+   <img src="jumpstart_images/image-16_bordered.png" width="80%" />
+
+<br><br>
+
+<div class="nav-link"><a href="#top">↑ Back to Top</a></div>
+
+---
+
 <div id='section-3'></div>
 
-# Task 2: Web Search, File Analysis & Data Handling
+# Task 3: Web Search, File Analysis & Data Handling
 
 Gemini Enterprise can analyze public web data, process files, and format data for external use.
 
@@ -251,61 +306,6 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
    <br>
 
    <img src="jumpstart_images/image-12_bordered.png" width="80%" />
-
-<br><br>
-
-<div class="nav-link"><a href="#top">↑ Back to Top</a></div>
-
----
-
-<div id='section-4'></div>
-
-# Task 3: Configuring Personalization and Appearance
-
-**Appearance**: You can customize the appearance of Gemini Enterprise in a variety of ways, including adjusting the theme (System, Light, Dark) and chat density (Comfortable, Compact).
-
-**Personalization**: As you use Gemini Enterprise, it builds a personal memory by understanding your individual needs and work patterns, leading to more relevant and context-aware assistance. You can explicitly define your role and industry, manage connected sources, and save specific memories. Personalization allows Gemini Enterprise to tailor its responses based on a ~30-day window of your activity, Google Workspace data (1P apps like Gmail, Calendar, Drive), and connected third-party (3P) apps.
-
-1. **Navigate to Settings:**
-   * Click **Settings & help** (gear icon at bottom left).
-   * Click on **Personalization**.
-   <br>
-   
-   <img src="jumpstart_images/image-13_bordered.png" width="80%" />
-
-<br><br>
-
-2. **Edit your Profile:**
-   * In the Profile section, enter the following details to give the assistant explicit context about you:
-     * **Preferred name**
-     * **Role or job title**
-     * **Industry**
-
-   <br>
-
-   <img src="jumpstart_images/image-14_bordered.png" width="80%" />
-
-<br><br>
-
-3. **Enable Memory & History:**
-   * Ensure the following toggles are turned on to help the assistant learn from past interactions:
-     * **Conversation history**
-     * **Reference saved memories**
-
-   <br>
-
-   <img src="jumpstart_images/image-15_bordered.png" width="80%" />
-
-<br><br>
-
-4. **Appearance:**
-   * Still under Settings, click on **Appearance**.
-   * Make sure **all** home page elements are checked.
-   * *Optional: Pick your theme (Light or Dark).*
-
-   <br>
-
-   <img src="jumpstart_images/image-16_bordered.png" width="80%" />
 
 <br><br>
 
